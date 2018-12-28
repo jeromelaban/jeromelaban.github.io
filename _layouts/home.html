@@ -30,7 +30,8 @@ layout: default
           </a>
           {%- endif -%}
           {{ post.excerpt }}
-        {%- endif -%}
+          <a href="{{ post.url | relative_url }}">Read more...</a>
+          {%- endif -%}
       </li>
       {%- endfor -%}
     </ul>
