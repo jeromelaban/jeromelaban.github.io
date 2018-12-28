@@ -5,7 +5,7 @@ date: 2006-09-01 22:09:00 -0400
 comments: true
 category: Archive
 tags: [".NET"]
-redirect_from: ["/post/2006/09/01/IIS2c-HTTP-4013-and-ASPNET-directories-ACLs-", "/post/2006/09/01/iis2c-http-4013-and-aspnet-directories-acls-"]
+redirect_from: ["/post/2006/09/01/IIS2c-HTTP-4013-and-ASPNET-directories-ACLs-.aspx", "/post/2006/09/01/iis2c-http-4013-and-aspnet-directories-acls-.aspx"]
 author: jerome
 ---
 <!-- more -->

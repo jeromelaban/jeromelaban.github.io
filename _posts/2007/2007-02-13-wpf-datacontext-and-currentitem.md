@@ -5,7 +5,7 @@ date: 2007-02-13 15:23:00 -0500
 comments: true
 category: Archive
 tags: [".NET"]
-redirect_from: ["/post/2007/02/13/WPF-DataContext-and-CurrentItem", "/post/2007/02/13/wpf-datacontext-and-currentitem"]
+redirect_from: ["/post/2007/02/13/WPF-DataContext-and-CurrentItem.aspx", "/post/2007/02/13/wpf-datacontext-and-currentitem.aspx"]
 author: jerome
 ---
 <!-- more -->

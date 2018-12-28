@@ -5,7 +5,7 @@ date: 2008-12-06 15:32:00 -0500
 comments: true
 category: Archive
 tags: [".NET"]
-redirect_from: ["/post/2008/12/06/Using-Multiple-Where-Clauses-in-a-LINQ-Query", "/post/2008/12/06/using-multiple-where-clauses-in-a-linq-query"]
+redirect_from: ["/post/2008/12/06/Using-Multiple-Where-Clauses-in-a-LINQ-Query.aspx", "/post/2008/12/06/using-multiple-where-clauses-in-a-linq-query.aspx"]
 author: jay
 ---
 <!-- more -->

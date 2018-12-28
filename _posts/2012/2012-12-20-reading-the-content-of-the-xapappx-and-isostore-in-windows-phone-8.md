@@ -5,7 +5,7 @@ date: 2012-12-20 09:57:00 -0500
 comments: true
 category: Archive
 tags: [".NET", "Windows Phone Dev"]
-redirect_from: ["/post/2012/12/20/Reading-the-content-of-the-XapAppx-and-IsoStore-in-Windows-Phone-8", "/post/2012/12/20/reading-the-content-of-the-xapappx-and-isostore-in-windows-phone-8"]
+redirect_from: ["/post/2012/12/20/Reading-the-content-of-the-XapAppx-and-IsoStore-in-Windows-Phone-8.aspx", "/post/2012/12/20/reading-the-content-of-the-xapappx-and-isostore-in-windows-phone-8.aspx"]
 author: jay
 ---
 <!-- more -->

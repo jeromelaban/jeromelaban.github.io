@@ -5,7 +5,7 @@ date: 2007-01-25 10:24:00 -0500
 comments: true
 category: Archive
 tags: [".NET"]
-redirect_from: ["/post/2007/01/25/Playing-with-WCF-and-NuSOAP-072", "/post/2007/01/25/playing-with-wcf-and-nusoap-072"]
+redirect_from: ["/post/2007/01/25/Playing-with-WCF-and-NuSOAP-072.aspx", "/post/2007/01/25/playing-with-wcf-and-nusoap-072.aspx"]
 author: jerome
 ---
 <!-- more -->

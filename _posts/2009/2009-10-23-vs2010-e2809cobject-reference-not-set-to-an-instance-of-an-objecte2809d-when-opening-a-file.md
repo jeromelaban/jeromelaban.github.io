@@ -5,7 +5,7 @@ date: 2009-10-23 20:19:43 -0400
 comments: true
 category: Archive
 tags: []
-redirect_from: ["/post/2009/10/23/VS2010-e2809cObject-reference-not-set-to-an-instance-of-an-objecte2809d-when-opening-a-file", "/post/2009/10/23/vs2010-e2809cobject-reference-not-set-to-an-instance-of-an-objecte2809d-when-opening-a-file"]
+redirect_from: ["/post/2009/10/23/VS2010-e2809cObject-reference-not-set-to-an-instance-of-an-objecte2809d-when-opening-a-file.aspx", "/post/2009/10/23/vs2010-e2809cobject-reference-not-set-to-an-instance-of-an-objecte2809d-when-opening-a-file.aspx"]
 author: admin
 ---
 <!-- more -->

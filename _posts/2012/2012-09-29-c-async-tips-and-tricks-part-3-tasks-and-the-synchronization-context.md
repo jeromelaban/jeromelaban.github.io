@@ -5,7 +5,7 @@ date: 2012-09-29 21:12:00 -0400
 comments: true
 category: Archive
 tags: [".NET", "Windows 8"]
-redirect_from: ["/post/2012/09/29/C-Async-Tips-and-Tricks-Part-3-Tasks-and-the-Synchronization-Context", "/post/2012/09/29/c-async-tips-and-tricks-part-3-tasks-and-the-synchronization-context"]
+redirect_from: ["/post/2012/09/29/C-Async-Tips-and-Tricks-Part-3-Tasks-and-the-Synchronization-Context.aspx", "/post/2012/09/29/c-async-tips-and-tricks-part-3-tasks-and-the-synchronization-context.aspx"]
 author: jay
 ---
 <!-- more -->

@@ -5,7 +5,7 @@ date: 2007-06-19 07:08:00 -0400
 comments: true
 category: Archive
 tags: [".NET"]
-redirect_from: ["/post/2007/06/19/No-files-were-found-to-look-in-Find-was-stopped-in-progress-in-VS2005", "/post/2007/06/19/no-files-were-found-to-look-in-find-was-stopped-in-progress-in-vs2005"]
+redirect_from: ["/post/2007/06/19/No-files-were-found-to-look-in-Find-was-stopped-in-progress-in-VS2005.aspx", "/post/2007/06/19/no-files-were-found-to-look-in-find-was-stopped-in-progress-in-vs2005.aspx"]
 author: jerome
 ---
 <!-- more -->

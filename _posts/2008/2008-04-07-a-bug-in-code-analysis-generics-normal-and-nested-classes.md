@@ -5,7 +5,7 @@ date: 2008-04-07 19:12:00 -0400
 comments: true
 category: Archive
 tags: [".NET"]
-redirect_from: ["/post/2008/04/07/A-bug-in-Code-Analysis-Generics-normal-and-nested-classes", "/post/2008/04/07/a-bug-in-code-analysis-generics-normal-and-nested-classes"]
+redirect_from: ["/post/2008/04/07/A-bug-in-Code-Analysis-Generics-normal-and-nested-classes.aspx", "/post/2008/04/07/a-bug-in-code-analysis-generics-normal-and-nested-classes.aspx"]
 author: jerome
 ---
 <!-- more -->

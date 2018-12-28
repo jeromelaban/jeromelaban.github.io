@@ -5,7 +5,7 @@ date: 2012-09-26 19:08:00 -0400
 comments: true
 category: Archive
 tags: [".NET"]
-redirect_from: ["/post/2012/09/26/VS2012-Create-multiple-file-links-with-a-drag-and-drop-between-two-projects", "/post/2012/09/26/vs2012-create-multiple-file-links-with-a-drag-and-drop-between-two-projects"]
+redirect_from: ["/post/2012/09/26/VS2012-Create-multiple-file-links-with-a-drag-and-drop-between-two-projects.aspx", "/post/2012/09/26/vs2012-create-multiple-file-links-with-a-drag-and-drop-between-two-projects.aspx"]
 author: jay
 ---
 <!-- more -->

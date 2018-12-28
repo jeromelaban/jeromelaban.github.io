@@ -5,7 +5,7 @@ date: 2012-08-26 20:52:00 -0400
 comments: true
 category: Archive
 tags: [".NET"]
-redirect_from: ["/post/2012/08/26/An-update-to-matthieumezil-Rx-and-the-FileSystemWatcher", "/post/2012/08/26/an-update-to-matthieumezil-rx-and-the-filesystemwatcher"]
+redirect_from: ["/post/2012/08/26/An-update-to-matthieumezil-Rx-and-the-FileSystemWatcher.aspx", "/post/2012/08/26/an-update-to-matthieumezil-rx-and-the-filesystemwatcher.aspx"]
 author: jay
 ---
 <!-- more -->

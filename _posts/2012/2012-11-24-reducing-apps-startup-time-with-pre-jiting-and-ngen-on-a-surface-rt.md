@@ -5,7 +5,7 @@ date: 2012-11-24 21:13:00 -0500
 comments: true
 category: Archive
 tags: [".NET", "Windows 8"]
-redirect_from: ["/post/2012/11/24/Reducing-apps-startup-time-with-Pre-JITing-and-NGEN-on-a-Surface-RT", "/post/2012/11/24/reducing-apps-startup-time-with-pre-jiting-and-ngen-on-a-surface-rt"]
+redirect_from: ["/post/2012/11/24/Reducing-apps-startup-time-with-Pre-JITing-and-NGEN-on-a-Surface-RT.aspx", "/post/2012/11/24/reducing-apps-startup-time-with-pre-jiting-and-ngen-on-a-surface-rt.aspx"]
 author: jay
 ---
 <!-- more -->

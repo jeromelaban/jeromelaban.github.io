@@ -5,7 +5,7 @@ date: 2013-04-18 20:49:00 -0400
 comments: true
 category: Archive
 tags: [".NET"]
-redirect_from: ["/post/2013/04/18/Memoization-and-Immutable-data-in-CSharp-Part-1", "/post/2013/04/18/memoization-and-immutable-data-in-csharp-part-1"]
+redirect_from: ["/post/2013/04/18/Memoization-and-Immutable-data-in-CSharp-Part-1.aspx", "/post/2013/04/18/memoization-and-immutable-data-in-csharp-part-1.aspx"]
 author: jay
 ---
 <p><em>TL;DR: Immutable data and memoization are functional programming concepts that can be applied to C# programming. These patterns have their strengths and weaknesses,&nbsp;discussed a bit&nbsp;in this article.&nbsp;</em></p>

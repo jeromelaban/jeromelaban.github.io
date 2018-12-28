@@ -5,7 +5,7 @@ date: 2009-07-10 21:18:00 -0400
 comments: true
 category: Archive
 tags: [".NET"]
-redirect_from: ["/post/2009/07/10/WCF-Streamed-Transfers-IIS6-and-IIS7-HTTP-KeepAlive", "/post/2009/07/10/wcf-streamed-transfers-iis6-and-iis7-http-keepalive"]
+redirect_from: ["/post/2009/07/10/WCF-Streamed-Transfers-IIS6-and-IIS7-HTTP-KeepAlive.aspx", "/post/2009/07/10/wcf-streamed-transfers-iis6-and-iis7-http-keepalive.aspx"]
 author: jay
 ---
 <!-- more -->

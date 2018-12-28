@@ -5,7 +5,7 @@ date: 2010-06-22 21:07:00 -0400
 comments: true
 category: Archive
 tags: [".NET"]
-redirect_from: ["/post/2010/06/22/WP7Dev-Using-the-WebClient-with-Reactive-Extensions-for-Effective-Asynchronous-Downloads", "/post/2010/06/22/wp7dev-using-the-webclient-with-reactive-extensions-for-effective-asynchronous-downloads"]
+redirect_from: ["/post/2010/06/22/WP7Dev-Using-the-WebClient-with-Reactive-Extensions-for-Effective-Asynchronous-Downloads.aspx", "/post/2010/06/22/wp7dev-using-the-webclient-with-reactive-extensions-for-effective-asynchronous-downloads.aspx"]
 author: jay
 ---
 <!-- more -->

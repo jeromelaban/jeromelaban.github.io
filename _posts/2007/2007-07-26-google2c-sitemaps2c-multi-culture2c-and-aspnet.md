@@ -5,7 +5,7 @@ date: 2007-07-26 13:48:00 -0400
 comments: true
 category: Archive
 tags: [".NET"]
-redirect_from: ["/post/2007/07/26/Google2c-Sitemaps2c-Multi-Culture2c-and-ASPNET", "/post/2007/07/26/google2c-sitemaps2c-multi-culture2c-and-aspnet"]
+redirect_from: ["/post/2007/07/26/Google2c-Sitemaps2c-Multi-Culture2c-and-ASPNET.aspx", "/post/2007/07/26/google2c-sitemaps2c-multi-culture2c-and-aspnet.aspx"]
 author: jerome
 ---
 <!-- more -->

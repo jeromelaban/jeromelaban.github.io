@@ -5,7 +5,7 @@ date: 2009-03-15 21:53:00 -0400
 comments: true
 category: Archive
 tags: [".NET", "Bus Stop Locator"]
-redirect_from: ["/post/2009/03/15/Google-Transit-and-Montreals-STM", "/post/2009/03/15/google-transit-and-montreals-stm"]
+redirect_from: ["/post/2009/03/15/Google-Transit-and-Montreals-STM.aspx", "/post/2009/03/15/google-transit-and-montreals-stm.aspx"]
 author: jay
 ---
 <!-- more -->

@@ -5,7 +5,7 @@ date: 2008-12-06 13:49:00 -0500
 comments: true
 category: Archive
 tags: [".NET"]
-redirect_from: ["/post/2008/12/06/fsharp-TryWith-Maybe-and-Umbrella", "/post/2008/12/06/fsharp-trywith-maybe-and-umbrella"]
+redirect_from: ["/post/2008/12/06/fsharp-TryWith-Maybe-and-Umbrella.aspx", "/post/2008/12/06/fsharp-trywith-maybe-and-umbrella.aspx"]
 author: jay
 ---
 <!-- more -->

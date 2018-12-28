@@ -5,7 +5,7 @@ date: 2004-08-16 11:43:00 -0500
 comments: true
 category: Archive
 tags: [".NET"]
-redirect_from: ["/post/2004/08/16/The-Disposable-Pattern2c-Determinism-in-the-NET-World", "/post/2004/08/16/the-disposable-pattern2c-determinism-in-the-net-world"]
+redirect_from: ["/post/2004/08/16/The-Disposable-Pattern2c-Determinism-in-the-NET-World.aspx", "/post/2004/08/16/the-disposable-pattern2c-determinism-in-the-net-world.aspx"]
 author: jerome
 ---
 <!-- more -->

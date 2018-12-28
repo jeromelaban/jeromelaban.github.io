@@ -5,7 +5,7 @@ date: 2011-07-25 20:35:00 -0400
 comments: true
 category: Archive
 tags: [".NET", "Windows Phone Dev"]
-redirect_from: ["/post/2011/07/25/When-declarativeness-goes-away-for-performance", "/post/2011/07/25/when-declarativeness-goes-away-for-performance"]
+redirect_from: ["/post/2011/07/25/When-declarativeness-goes-away-for-performance.aspx", "/post/2011/07/25/when-declarativeness-goes-away-for-performance.aspx"]
 author: jay
 ---
 <!-- more -->

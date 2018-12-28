@@ -5,7 +5,7 @@ date: 2012-03-17 13:06:00 -0400
 comments: true
 category: Archive
 tags: [".NET", "Windows 8"]
-redirect_from: ["/post/2012/03/17/No-Threads-for-you-in-metro-style-apps", "/post/2012/03/17/no-threads-for-you-in-metro-style-apps"]
+redirect_from: ["/post/2012/03/17/No-Threads-for-you-in-metro-style-apps.aspx", "/post/2012/03/17/no-threads-for-you-in-metro-style-apps.aspx"]
 author: jay
 ---
 <!-- more -->

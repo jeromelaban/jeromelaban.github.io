@@ -5,7 +5,7 @@ date: 2004-10-08 11:42:00 -0500
 comments: true
 category: Archive
 tags: ["Misc"]
-redirect_from: ["/post/2004/10/08/Multiple-MassStorage-Drivers-with-Windows-2000XP2003-and-INACCESSIBLE_BOOT_DEVICE", "/post/2004/10/08/multiple-massstorage-drivers-with-windows-2000xp2003-and-inaccessible_boot_device"]
+redirect_from: ["/post/2004/10/08/Multiple-MassStorage-Drivers-with-Windows-2000XP2003-and-INACCESSIBLE_BOOT_DEVICE.aspx", "/post/2004/10/08/multiple-massstorage-drivers-with-windows-2000xp2003-and-inaccessible_boot_device.aspx"]
 author: jerome
 ---
 <!-- more -->

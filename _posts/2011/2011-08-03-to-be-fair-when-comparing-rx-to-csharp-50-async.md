@@ -5,7 +5,7 @@ date: 2011-08-03 20:45:00 -0400
 comments: true
 category: Archive
 tags: [".NET"]
-redirect_from: ["/post/2011/08/03/To-be-fair-when-comparing-Rx-to-csharp-50-Async", "/post/2011/08/03/to-be-fair-when-comparing-rx-to-csharp-50-async"]
+redirect_from: ["/post/2011/08/03/To-be-fair-when-comparing-Rx-to-csharp-50-Async.aspx", "/post/2011/08/03/to-be-fair-when-comparing-rx-to-csharp-50-async.aspx"]
 author: admin
 ---
 <!-- more -->

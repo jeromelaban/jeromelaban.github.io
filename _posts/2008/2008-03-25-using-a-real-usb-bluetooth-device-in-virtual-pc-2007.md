@@ -5,7 +5,7 @@ date: 2008-03-25 20:03:00 -0400
 comments: true
 category: Archive
 tags: ["Misc"]
-redirect_from: ["/post/2008/03/25/Using-a-real-USB-bluetooth-device-in-Virtual-PC-2007", "/post/2008/03/25/using-a-real-usb-bluetooth-device-in-virtual-pc-2007"]
+redirect_from: ["/post/2008/03/25/Using-a-real-USB-bluetooth-device-in-Virtual-PC-2007.aspx", "/post/2008/03/25/using-a-real-usb-bluetooth-device-in-virtual-pc-2007.aspx"]
 author: jay
 ---
 <!-- more -->

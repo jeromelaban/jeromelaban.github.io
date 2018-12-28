@@ -5,7 +5,7 @@ date: 2007-03-07 14:41:00 -0500
 comments: true
 category: Archive
 tags: ["Bluetooth Remote Control"]
-redirect_from: ["/post/2007/03/07/Support-for-Widcomm-Stack-on-the-Way", "/post/2007/03/07/support-for-widcomm-stack-on-the-way"]
+redirect_from: ["/post/2007/03/07/Support-for-Widcomm-Stack-on-the-Way.aspx", "/post/2007/03/07/support-for-widcomm-stack-on-the-way.aspx"]
 author: jerome
 ---
 <!-- more -->

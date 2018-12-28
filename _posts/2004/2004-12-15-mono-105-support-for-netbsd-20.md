@@ -5,7 +5,7 @@ date: 2004-12-15 11:37:00 -0500
 comments: true
 category: Archive
 tags: [".NET"]
-redirect_from: ["/post/2004/12/15/Mono-105-support-for-NetBSD-20", "/post/2004/12/15/mono-105-support-for-netbsd-20"]
+redirect_from: ["/post/2004/12/15/Mono-105-support-for-NetBSD-20.aspx", "/post/2004/12/15/mono-105-support-for-netbsd-20.aspx"]
 author: jerome
 ---
 <!-- more -->

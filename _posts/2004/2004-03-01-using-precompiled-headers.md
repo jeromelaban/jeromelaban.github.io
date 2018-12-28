@@ -5,7 +5,7 @@ date: 2004-03-01 11:50:00 -0500
 comments: true
 category: Archive
 tags: ["Misc"]
-redirect_from: ["/post/2004/03/01/Using-Precompiled-Headers", "/post/2004/03/01/using-precompiled-headers"]
+redirect_from: ["/post/2004/03/01/Using-Precompiled-Headers.aspx", "/post/2004/03/01/using-precompiled-headers.aspx"]
 author: jerome
 ---
 <!-- more -->

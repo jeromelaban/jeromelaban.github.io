@@ -5,7 +5,7 @@ date: 2010-09-06 20:26:00 -0400
 comments: true
 category: Archive
 tags: [".NET", "Windows Phone Dev"]
-redirect_from: ["/post/2010/09/06/WP7Dev-Reactive-Safer-Reactive-Extensions", "/post/2010/09/06/wp7dev-reactive-safer-reactive-extensions"]
+redirect_from: ["/post/2010/09/06/WP7Dev-Reactive-Safer-Reactive-Extensions.aspx", "/post/2010/09/06/wp7dev-reactive-safer-reactive-extensions.aspx"]
 author: jay
 ---
 <!-- more -->

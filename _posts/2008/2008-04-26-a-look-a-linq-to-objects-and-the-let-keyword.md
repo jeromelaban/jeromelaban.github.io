@@ -5,7 +5,7 @@ date: 2008-04-26 13:08:00 -0400
 comments: true
 category: Archive
 tags: [".NET"]
-redirect_from: ["/post/2008/04/26/A-look-a-Linq-to-objects-and-the-let-keyword", "/post/2008/04/26/a-look-a-linq-to-objects-and-the-let-keyword"]
+redirect_from: ["/post/2008/04/26/A-look-a-Linq-to-objects-and-the-let-keyword.aspx", "/post/2008/04/26/a-look-a-linq-to-objects-and-the-let-keyword.aspx"]
 author: jerome
 ---
 <!-- more -->

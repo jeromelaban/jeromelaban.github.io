@@ -5,7 +5,7 @@ date: 2007-03-05 13:22:37 -0500
 comments: true
 category: Archive
 tags: ["My Life"]
-redirect_from: ["/post/2007/03/05/Spending-some-time-in-Montreal-QC-CA", "/post/2007/03/05/spending-some-time-in-montreal-qc-ca"]
+redirect_from: ["/post/2007/03/05/Spending-some-time-in-Montreal-QC-CA.aspx", "/post/2007/03/05/spending-some-time-in-montreal-qc-ca.aspx"]
 author: jerome
 ---
 <!-- more -->

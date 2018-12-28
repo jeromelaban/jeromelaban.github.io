@@ -5,7 +5,7 @@ date: 2011-07-29 07:32:00 -0400
 comments: true
 category: Archive
 tags: [".NET"]
-redirect_from: ["/post/2011/07/29/wp7dev-Error-code-0xc00cee65", "/post/2011/07/29/wp7dev-error-code-0xc00cee65"]
+redirect_from: ["/post/2011/07/29/wp7dev-Error-code-0xc00cee65.aspx", "/post/2011/07/29/wp7dev-error-code-0xc00cee65.aspx"]
 author: jay
 ---
 <!-- more -->

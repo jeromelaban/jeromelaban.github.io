@@ -5,7 +5,7 @@ date: 2004-04-14 11:55:41 -0500
 comments: true
 category: Archive
 tags: ["Misc"]
-redirect_from: ["/post/2004/04/14/Obscure-abstraction-stories", "/post/2004/04/14/obscure-abstraction-stories"]
+redirect_from: ["/post/2004/04/14/Obscure-abstraction-stories.aspx", "/post/2004/04/14/obscure-abstraction-stories.aspx"]
 author: jerome
 ---
 <!-- more -->

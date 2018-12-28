@@ -5,7 +5,7 @@ date: 2007-08-29 05:48:00 -0400
 comments: true
 category: Archive
 tags: [".NET"]
-redirect_from: ["/post/2007/08/29/Binding-a-C-property-to-a-WPF-validated-Control", "/post/2007/08/29/binding-a-c-property-to-a-wpf-validated-control"]
+redirect_from: ["/post/2007/08/29/Binding-a-C-property-to-a-WPF-validated-Control.aspx", "/post/2007/08/29/binding-a-c-property-to-a-wpf-validated-control.aspx"]
 author: jerome
 ---
 <!-- more -->

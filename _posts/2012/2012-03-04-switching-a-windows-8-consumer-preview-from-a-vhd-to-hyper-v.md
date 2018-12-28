@@ -5,7 +5,7 @@ date: 2012-03-04 13:39:00 -0500
 comments: true
 category: Archive
 tags: ["Windows 8"]
-redirect_from: ["/post/2012/03/04/Switching-a-Windows-8-Consumer-Preview-from-a-VHD-to-Hyper-V", "/post/2012/03/04/switching-a-windows-8-consumer-preview-from-a-vhd-to-hyper-v"]
+redirect_from: ["/post/2012/03/04/Switching-a-Windows-8-Consumer-Preview-from-a-VHD-to-Hyper-V.aspx", "/post/2012/03/04/switching-a-windows-8-consumer-preview-from-a-vhd-to-hyper-v.aspx"]
 author: jay
 ---
 <!-- more -->

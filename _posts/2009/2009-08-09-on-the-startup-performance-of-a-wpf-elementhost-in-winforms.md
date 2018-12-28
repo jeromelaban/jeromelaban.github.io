@@ -5,7 +5,7 @@ date: 2009-08-09 17:34:00 -0400
 comments: true
 category: Archive
 tags: [".NET"]
-redirect_from: ["/post/2009/08/09/On-the-Startup-Performance-of-a-WPF-ElementHost-in-Winforms", "/post/2009/08/09/on-the-startup-performance-of-a-wpf-elementhost-in-winforms"]
+redirect_from: ["/post/2009/08/09/On-the-Startup-Performance-of-a-WPF-ElementHost-in-Winforms.aspx", "/post/2009/08/09/on-the-startup-performance-of-a-wpf-elementhost-in-winforms.aspx"]
 author: jay
 ---
 <!-- more -->

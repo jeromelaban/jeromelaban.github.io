@@ -5,7 +5,7 @@ date: 2007-12-09 22:33:00 -0500
 comments: true
 category: Archive
 tags: [".NET"]
-redirect_from: ["/post/2007/12/09/The-(non-generic)-SystemAction-delegate", "/post/2007/12/09/the-(non-generic)-systemaction-delegate"]
+redirect_from: ["/post/2007/12/09/The-(non-generic)-SystemAction-delegate.aspx", "/post/2007/12/09/the-(non-generic)-systemaction-delegate.aspx"]
 author: jerome
 ---
 <!-- more -->

@@ -5,7 +5,7 @@ date: 2007-06-03 14:34:23 -0400
 comments: true
 category: Archive
 tags: ["Bluetooth Remote Control"]
-redirect_from: ["/post/2007/06/03/Bluetooth-Remote-Control-and-Incoming-Calls", "/post/2007/06/03/bluetooth-remote-control-and-incoming-calls"]
+redirect_from: ["/post/2007/06/03/Bluetooth-Remote-Control-and-Incoming-Calls.aspx", "/post/2007/06/03/bluetooth-remote-control-and-incoming-calls.aspx"]
 author: jerome
 ---
 <!-- more -->

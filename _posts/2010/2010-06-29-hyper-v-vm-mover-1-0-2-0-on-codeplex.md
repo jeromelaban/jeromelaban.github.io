@@ -5,7 +5,7 @@ date: 2010-06-29 19:37:00 -0400
 comments: true
 category: Archive
 tags: [".NET"]
-redirect_from: ["/post/2010/06/29/Hyper-V-VM-Mover-1-0-2-0-on-CodePlex", "/post/2010/06/29/hyper-v-vm-mover-1-0-2-0-on-codeplex"]
+redirect_from: ["/post/2010/06/29/Hyper-V-VM-Mover-1-0-2-0-on-CodePlex.aspx", "/post/2010/06/29/hyper-v-vm-mover-1-0-2-0-on-codeplex.aspx"]
 author: jay
 ---
 <!-- more -->

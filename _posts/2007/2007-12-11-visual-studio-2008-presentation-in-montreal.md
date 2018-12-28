@@ -5,7 +5,7 @@ date: 2007-12-11 21:46:00 -0500
 comments: true
 category: Archive
 tags: [".NET"]
-redirect_from: ["/post/2007/12/11/Visual-Studio-2008-Presentation-in-Montreal", "/post/2007/12/11/visual-studio-2008-presentation-in-montreal"]
+redirect_from: ["/post/2007/12/11/Visual-Studio-2008-Presentation-in-Montreal.aspx", "/post/2007/12/11/visual-studio-2008-presentation-in-montreal.aspx"]
 author: jerome
 ---
 <!-- more -->

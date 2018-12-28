@@ -5,7 +5,7 @@ date: 2007-02-26 02:38:00 -0500
 comments: true
 category: Archive
 tags: ["Misc"]
-redirect_from: ["/post/2007/02/26/Rest-in-Peace2c-TuO", "/post/2007/02/26/rest-in-peace2c-tuo"]
+redirect_from: ["/post/2007/02/26/Rest-in-Peace2c-TuO.aspx", "/post/2007/02/26/rest-in-peace2c-tuo.aspx"]
 author: jerome
 ---
 <!-- more -->

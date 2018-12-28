@@ -5,7 +5,7 @@ date: 2009-03-28 14:47:00 -0400
 comments: true
 category: Archive
 tags: [".NET"]
-redirect_from: ["/post/2009/03/28/Hyper-V-Virtual-Machine-Mover-and-Hyper-V-Server", "/post/2009/03/28/hyper-v-virtual-machine-mover-and-hyper-v-server"]
+redirect_from: ["/post/2009/03/28/Hyper-V-Virtual-Machine-Mover-and-Hyper-V-Server.aspx", "/post/2009/03/28/hyper-v-virtual-machine-mover-and-hyper-v-server.aspx"]
 author: jay
 ---
 <!-- more -->

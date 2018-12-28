@@ -5,7 +5,7 @@ date: 2013-01-13 15:02:00 -0500
 comments: true
 category: Archive
 tags: [".NET", "Windows Phone Dev"]
-redirect_from: ["/post/2013/01/13/ReaderWriterLockSlim-on-Windows-Phone-8-and-the-seemingly-random-MethodAccessException", "/post/2013/01/13/readerwriterlockslim-on-windows-phone-8-and-the-seemingly-random-methodaccessexception"]
+redirect_from: ["/post/2013/01/13/ReaderWriterLockSlim-on-Windows-Phone-8-and-the-seemingly-random-MethodAccessException.aspx", "/post/2013/01/13/readerwriterlockslim-on-windows-phone-8-and-the-seemingly-random-methodaccessexception.aspx"]
 author: jay
 ---
 <!-- more -->

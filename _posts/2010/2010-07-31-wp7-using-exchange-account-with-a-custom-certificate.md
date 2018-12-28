@@ -5,7 +5,7 @@ date: 2010-07-31 15:07:00 -0400
 comments: true
 category: Archive
 tags: ["Windows Phone Dev"]
-redirect_from: ["/post/2010/07/31/WP7-Using-Exchange-Account-With-a-Custom-Certificate", "/post/2010/07/31/wp7-using-exchange-account-with-a-custom-certificate"]
+redirect_from: ["/post/2010/07/31/WP7-Using-Exchange-Account-With-a-Custom-Certificate.aspx", "/post/2010/07/31/wp7-using-exchange-account-with-a-custom-certificate.aspx"]
 author: jay
 ---
 <!-- more -->

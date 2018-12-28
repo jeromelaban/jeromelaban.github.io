@@ -5,7 +5,7 @@ date: 2008-04-13 20:06:00 -0400
 comments: true
 category: Archive
 tags: ["Misc"]
-redirect_from: ["/post/2008/04/13/Canadian-Mobile-Data-Plans", "/post/2008/04/13/canadian-mobile-data-plans"]
+redirect_from: ["/post/2008/04/13/Canadian-Mobile-Data-Plans.aspx", "/post/2008/04/13/canadian-mobile-data-plans.aspx"]
 author: jerome
 ---
 <!-- more -->

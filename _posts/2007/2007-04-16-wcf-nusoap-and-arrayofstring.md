@@ -5,7 +5,7 @@ date: 2007-04-16 15:21:00 -0400
 comments: true
 category: Archive
 tags: [".NET"]
-redirect_from: ["/post/2007/04/16/WCF-NuSOAP-and-ArrayOfString", "/post/2007/04/16/wcf-nusoap-and-arrayofstring"]
+redirect_from: ["/post/2007/04/16/WCF-NuSOAP-and-ArrayOfString.aspx", "/post/2007/04/16/wcf-nusoap-and-arrayofstring.aspx"]
 author: jerome
 ---
 <!-- more -->

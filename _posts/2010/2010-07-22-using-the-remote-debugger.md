@@ -5,7 +5,7 @@ date: 2010-07-22 20:05:00 -0400
 comments: true
 category: Archive
 tags: [".NET"]
-redirect_from: ["/post/2010/07/22/Using-the-Remote-Debugger", "/post/2010/07/22/using-the-remote-debugger"]
+redirect_from: ["/post/2010/07/22/Using-the-Remote-Debugger.aspx", "/post/2010/07/22/using-the-remote-debugger.aspx"]
 author: jay
 ---
 <!-- more -->

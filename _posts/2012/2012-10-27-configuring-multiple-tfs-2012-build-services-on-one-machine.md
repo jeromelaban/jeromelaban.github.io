@@ -5,7 +5,7 @@ date: 2012-10-27 12:18:00 -0400
 comments: true
 category: Archive
 tags: [".NET"]
-redirect_from: ["/post/2012/10/27/Configuring-Multiple-TFS-2012-Build-Services-on-one-Machine", "/post/2012/10/27/configuring-multiple-tfs-2012-build-services-on-one-machine"]
+redirect_from: ["/post/2012/10/27/Configuring-Multiple-TFS-2012-Build-Services-on-one-Machine.aspx", "/post/2012/10/27/configuring-multiple-tfs-2012-build-services-on-one-machine.aspx"]
 author: jay
 ---
 <!-- more -->

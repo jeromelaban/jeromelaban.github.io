@@ -5,7 +5,7 @@ date: 2013-01-02 22:42:00 -0500
 comments: true
 category: Archive
 tags: [".NET", "Windows Phone Dev"]
-redirect_from: ["/post/2013/01/02/Toying-around-with-FSharp-Queries-Rx-Portables-Libraries-Windows-Phone-8-and-the-Zip-operator", "/post/2013/01/02/toying-around-with-fsharp-queries-rx-portables-libraries-windows-phone-8-and-the-zip-operator"]
+redirect_from: ["/post/2013/01/02/Toying-around-with-FSharp-Queries-Rx-Portables-Libraries-Windows-Phone-8-and-the-Zip-operator.aspx", "/post/2013/01/02/toying-around-with-fsharp-queries-rx-portables-libraries-windows-phone-8-and-the-zip-operator.aspx"]
 author: jay
 ---
 <!-- more -->

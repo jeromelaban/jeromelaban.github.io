@@ -5,7 +5,7 @@ date: 2004-08-05 11:45:00 -0500
 comments: true
 category: Archive
 tags: [".NET"]
-redirect_from: ["/post/2004/08/05/Dont-get-C-volatile-the-wrong-way", "/post/2004/08/05/dont-get-c-volatile-the-wrong-way"]
+redirect_from: ["/post/2004/08/05/Dont-get-C-volatile-the-wrong-way.aspx", "/post/2004/08/05/dont-get-c-volatile-the-wrong-way.aspx"]
 author: jerome
 ---
 <!-- more -->

@@ -5,7 +5,7 @@ date: 2011-11-25 20:55:00 -0500
 comments: true
 category: Archive
 tags: [".NET"]
-redirect_from: ["/post/2011/11/25/NuGet-package-customizations-and-optional-references", "/post/2011/11/25/nuget-package-customizations-and-optional-references"]
+redirect_from: ["/post/2011/11/25/NuGet-package-customizations-and-optional-references.aspx", "/post/2011/11/25/nuget-package-customizations-and-optional-references.aspx"]
 author: jay
 ---
 <!-- more -->

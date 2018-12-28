@@ -5,7 +5,7 @@ date: 2007-02-11 16:33:40 -0500
 comments: true
 category: Archive
 tags: [".NET"]
-redirect_from: ["/post/2007/02/11/Small-blog-update-with-Url-Rewriting", "/post/2007/02/11/small-blog-update-with-url-rewriting"]
+redirect_from: ["/post/2007/02/11/Small-blog-update-with-Url-Rewriting.aspx", "/post/2007/02/11/small-blog-update-with-url-rewriting.aspx"]
 author: jerome
 ---
 <!-- more -->

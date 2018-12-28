@@ -5,7 +5,7 @@ date: 2009-10-14 20:39:00 -0400
 comments: true
 category: Archive
 tags: []
-redirect_from: ["/post/2009/10/14/Hyper-V-CPU-Load-and-System-Clock-Drift", "/post/2009/10/14/hyper-v-cpu-load-and-system-clock-drift"]
+redirect_from: ["/post/2009/10/14/Hyper-V-CPU-Load-and-System-Clock-Drift.aspx", "/post/2009/10/14/hyper-v-cpu-load-and-system-clock-drift.aspx"]
 author: jay
 ---
 <!-- more -->

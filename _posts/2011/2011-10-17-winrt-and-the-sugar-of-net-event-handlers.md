@@ -5,7 +5,7 @@ date: 2011-10-17 19:48:00 -0400
 comments: true
 category: Archive
 tags: ["Windows 8"]
-redirect_from: ["/post/2011/10/17/WinRT-and-the-sugar-of-NET-event-handlers", "/post/2011/10/17/winrt-and-the-sugar-of-net-event-handlers"]
+redirect_from: ["/post/2011/10/17/WinRT-and-the-sugar-of-NET-event-handlers.aspx", "/post/2011/10/17/winrt-and-the-sugar-of-net-event-handlers.aspx"]
 author: jay
 ---
 <!-- more -->

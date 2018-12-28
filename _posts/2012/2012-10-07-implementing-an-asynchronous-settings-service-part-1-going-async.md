@@ -5,7 +5,7 @@ date: 2012-10-07 21:32:00 -0400
 comments: true
 category: Archive
 tags: [".NET", "Windows 8", "Windows Phone Dev"]
-redirect_from: ["/post/2012/10/07/Implementing-an-asynchronous-settings-service-part-1-going-async", "/post/2012/10/07/implementing-an-asynchronous-settings-service-part-1-going-async"]
+redirect_from: ["/post/2012/10/07/Implementing-an-asynchronous-settings-service-part-1-going-async.aspx", "/post/2012/10/07/implementing-an-asynchronous-settings-service-part-1-going-async.aspx"]
 author: jay
 ---
 <!-- more -->

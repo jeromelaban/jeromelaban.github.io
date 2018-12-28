@@ -5,7 +5,7 @@ date: 2012-06-11 05:15:00 -0400
 comments: true
 category: Archive
 tags: [".NET", "Windows 8"]
-redirect_from: ["/post/2012/06/11/Improving-the-Startup-Time-of-Xaml-Metro-Style-Apps-with-Multicore-JIT", "/post/2012/06/11/improving-the-startup-time-of-xaml-metro-style-apps-with-multicore-jit"]
+redirect_from: ["/post/2012/06/11/Improving-the-Startup-Time-of-Xaml-Metro-Style-Apps-with-Multicore-JIT.aspx", "/post/2012/06/11/improving-the-startup-time-of-xaml-metro-style-apps-with-multicore-jit.aspx"]
 author: jay
 ---
 <!-- more -->

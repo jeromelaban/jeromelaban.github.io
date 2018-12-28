@@ -5,7 +5,7 @@ date: 2008-11-08 16:06:00 -0500
 comments: true
 category: Archive
 tags: [".NET"]
-redirect_from: ["/post/2008/11/08/Working-with-Umbrella-in-NET-3-5", "/post/2008/11/08/working-with-umbrella-in-net-3-5"]
+redirect_from: ["/post/2008/11/08/Working-with-Umbrella-in-NET-3-5.aspx", "/post/2008/11/08/working-with-umbrella-in-net-3-5.aspx"]
 author: jay
 ---
 <!-- more -->

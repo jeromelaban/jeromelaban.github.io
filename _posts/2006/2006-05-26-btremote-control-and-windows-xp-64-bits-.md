@@ -5,7 +5,7 @@ date: 2006-05-26 23:21:05 -0400
 comments: true
 category: Archive
 tags: ["Bluetooth Remote Control"]
-redirect_from: ["/post/2006/05/26/BTRemote-Control-and-Windows-XP-64-Bits-", "/post/2006/05/26/btremote-control-and-windows-xp-64-bits-"]
+redirect_from: ["/post/2006/05/26/BTRemote-Control-and-Windows-XP-64-Bits-.aspx", "/post/2006/05/26/btremote-control-and-windows-xp-64-bits-.aspx"]
 author: jerome
 ---
 <!-- more -->

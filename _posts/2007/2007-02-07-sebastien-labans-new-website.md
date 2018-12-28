@@ -5,7 +5,7 @@ date: 2007-02-07 04:45:59 -0500
 comments: true
 category: Archive
 tags: ["My Life"]
-redirect_from: ["/post/2007/02/07/Sebastien-Labans-new-website", "/post/2007/02/07/sebastien-labans-new-website"]
+redirect_from: ["/post/2007/02/07/Sebastien-Labans-new-website.aspx", "/post/2007/02/07/sebastien-labans-new-website.aspx"]
 author: jerome
 ---
 <!-- more -->

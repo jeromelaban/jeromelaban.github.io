@@ -5,7 +5,7 @@ date: 2007-05-26 12:04:00 -0400
 comments: true
 category: Archive
 tags: ["Bluetooth Remote Control"]
-redirect_from: ["/post/2007/05/26/Vistas-Sound-Mixer-in-Bluetooth-Remote-Control", "/post/2007/05/26/vistas-sound-mixer-in-bluetooth-remote-control"]
+redirect_from: ["/post/2007/05/26/Vistas-Sound-Mixer-in-Bluetooth-Remote-Control.aspx", "/post/2007/05/26/vistas-sound-mixer-in-bluetooth-remote-control.aspx"]
 author: jerome
 ---
 <!-- more -->

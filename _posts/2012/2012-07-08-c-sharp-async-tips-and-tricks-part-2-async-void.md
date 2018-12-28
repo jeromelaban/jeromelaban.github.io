@@ -5,7 +5,7 @@ date: 2012-07-08 17:05:00 -0400
 comments: true
 category: Archive
 tags: [".NET", ".NET", "Windows 8", "Windows 8"]
-redirect_from: ["/post/2012/07/08/c-sharp-async-tips-and-tricks-part-2-async-void"]
+redirect_from: ["/post/2012/07/08/c-sharp-async-tips-and-tricks-part-2-async-void.aspx"]
 author: jay
 ---
 <!-- more -->

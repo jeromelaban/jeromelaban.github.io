@@ -5,7 +5,7 @@ date: 2004-04-02 11:54:00 -0500
 comments: true
 category: Archive
 tags: ["Misc"]
-redirect_from: ["/post/2004/04/02/Windows-Installer-CleanUp-Utility", "/post/2004/04/02/windows-installer-cleanup-utility"]
+redirect_from: ["/post/2004/04/02/Windows-Installer-CleanUp-Utility.aspx", "/post/2004/04/02/windows-installer-cleanup-utility.aspx"]
 author: jerome
 ---
 <!-- more -->

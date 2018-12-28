@@ -5,7 +5,7 @@ date: 2010-06-19 21:36:00 -0400
 comments: true
 category: Archive
 tags: [".NET"]
-redirect_from: ["/post/2010/06/19/WP7Dev-Beware-of-the-ThreadStatic-attribute-on-Silverlight-for-Windows-Phone-7", "/post/2010/06/19/wp7dev-beware-of-the-threadstatic-attribute-on-silverlight-for-windows-phone-7"]
+redirect_from: ["/post/2010/06/19/WP7Dev-Beware-of-the-ThreadStatic-attribute-on-Silverlight-for-Windows-Phone-7.aspx", "/post/2010/06/19/wp7dev-beware-of-the-threadstatic-attribute-on-silverlight-for-windows-phone-7.aspx"]
 author: admin
 ---
 <!-- more -->

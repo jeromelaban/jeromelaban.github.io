@@ -5,7 +5,7 @@ date: 2006-12-22 12:56:00 -0500
 comments: true
 category: Archive
 tags: [".NET"]
-redirect_from: ["/post/2006/12/22/ODPNET-1020220-Connection-Pool-Race-Condition-", "/post/2006/12/22/odpnet-1020220-connection-pool-race-condition-"]
+redirect_from: ["/post/2006/12/22/ODPNET-1020220-Connection-Pool-Race-Condition-.aspx", "/post/2006/12/22/odpnet-1020220-connection-pool-race-condition-.aspx"]
 author: jerome
 ---
 <!-- more -->

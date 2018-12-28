@@ -5,7 +5,7 @@ date: 2008-04-01 18:39:00 -0400
 comments: true
 category: Archive
 tags: ["Bluetooth Remote Control", "Bluetooth Remote Control"]
-redirect_from: ["/post/2008/04/01/Bluetooth-Remote-Control-0902c-Round-2", "/post/2008/04/01/bluetooth-remote-control-0902c-round-2"]
+redirect_from: ["/post/2008/04/01/Bluetooth-Remote-Control-0902c-Round-2.aspx", "/post/2008/04/01/bluetooth-remote-control-0902c-round-2.aspx"]
 author: jerome
 ---
 <!-- more -->

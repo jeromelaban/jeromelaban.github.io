@@ -5,7 +5,7 @@ date: 2008-08-31 20:08:00 -0400
 comments: true
 category: Archive
 tags: [".NET", "Misc", "Bus Stop Locator"]
-redirect_from: ["/post/2008/08/31/Using-Google-Gears-to-find-Montreals-Bus-Stops", "/post/2008/08/31/using-google-gears-to-find-montreals-bus-stops"]
+redirect_from: ["/post/2008/08/31/Using-Google-Gears-to-find-Montreals-Bus-Stops.aspx", "/post/2008/08/31/using-google-gears-to-find-montreals-bus-stops.aspx"]
 author: jay
 ---
 <!-- more -->

@@ -5,7 +5,7 @@ date: 2007-10-19 07:14:00 -0400
 comments: true
 category: Archive
 tags: ["My Life"]
-redirect_from: ["/post/2007/10/19/News-from-Montreal", "/post/2007/10/19/news-from-montreal"]
+redirect_from: ["/post/2007/10/19/News-from-Montreal.aspx", "/post/2007/10/19/news-from-montreal.aspx"]
 author: jerome
 ---
 <!-- more -->

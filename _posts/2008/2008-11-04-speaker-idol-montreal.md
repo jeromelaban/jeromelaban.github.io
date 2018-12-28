@@ -5,7 +5,7 @@ date: 2008-11-04 06:56:00 -0500
 comments: true
 category: Archive
 tags: [".NET"]
-redirect_from: ["/post/2008/11/04/Speaker-Idol-Montreal", "/post/2008/11/04/speaker-idol-montreal"]
+redirect_from: ["/post/2008/11/04/Speaker-Idol-Montreal.aspx", "/post/2008/11/04/speaker-idol-montreal.aspx"]
 author: jay
 ---
 <!-- more -->

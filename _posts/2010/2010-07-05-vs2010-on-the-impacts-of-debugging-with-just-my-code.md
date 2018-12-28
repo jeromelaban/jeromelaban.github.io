@@ -5,7 +5,7 @@ date: 2010-07-05 19:58:00 -0400
 comments: true
 category: Archive
 tags: [".NET"]
-redirect_from: ["/post/2010/07/05/VS2010-On-the-Impacts-of-Debugging-with-Just-My-Code", "/post/2010/07/05/vs2010-on-the-impacts-of-debugging-with-just-my-code"]
+redirect_from: ["/post/2010/07/05/VS2010-On-the-Impacts-of-Debugging-with-Just-My-Code.aspx", "/post/2010/07/05/vs2010-on-the-impacts-of-debugging-with-just-my-code.aspx"]
 author: jay
 ---
 <!-- more -->

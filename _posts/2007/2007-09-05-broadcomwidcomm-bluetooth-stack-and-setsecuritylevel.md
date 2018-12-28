@@ -5,7 +5,7 @@ date: 2007-09-05 15:37:00 -0400
 comments: true
 category: Archive
 tags: ["Misc"]
-redirect_from: ["/post/2007/09/05/BroadcomWidcomm-Bluetooth-Stack-and-SetSecurityLevel", "/post/2007/09/05/broadcomwidcomm-bluetooth-stack-and-setsecuritylevel"]
+redirect_from: ["/post/2007/09/05/BroadcomWidcomm-Bluetooth-Stack-and-SetSecurityLevel.aspx", "/post/2007/09/05/broadcomwidcomm-bluetooth-stack-and-setsecuritylevel.aspx"]
 author: jerome
 ---
 <!-- more -->

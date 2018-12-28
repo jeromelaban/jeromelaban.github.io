@@ -5,7 +5,7 @@ date: 2010-07-26 18:42:00 -0400
 comments: true
 category: Archive
 tags: [".NET"]
-redirect_from: ["/post/2010/07/26/Revisited-with-the-Reactive-Extensions-DataBinding-and-Updates-from-multiple-Threads", "/post/2010/07/26/revisited-with-the-reactive-extensions-databinding-and-updates-from-multiple-threads"]
+redirect_from: ["/post/2010/07/26/Revisited-with-the-Reactive-Extensions-DataBinding-and-Updates-from-multiple-Threads.aspx", "/post/2010/07/26/revisited-with-the-reactive-extensions-databinding-and-updates-from-multiple-threads.aspx"]
 author: admin
 ---
 <!-- more -->

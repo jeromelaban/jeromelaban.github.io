@@ -5,7 +5,7 @@ date: 2005-04-04 11:33:00 -0500
 comments: true
 category: Archive
 tags: [".NET"]
-redirect_from: ["/post/2005/04/04/C-202c-Closures-and-Anonymous-Delegates", "/post/2005/04/04/c-202c-closures-and-anonymous-delegates"]
+redirect_from: ["/post/2005/04/04/C-202c-Closures-and-Anonymous-Delegates.aspx", "/post/2005/04/04/c-202c-closures-and-anonymous-delegates.aspx"]
 author: jerome
 ---
 <!-- more -->

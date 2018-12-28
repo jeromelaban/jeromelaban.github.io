@@ -5,7 +5,7 @@ date: 2005-11-18 16:25:00 -0500
 comments: true
 category: Archive
 tags: [".NET"]
-redirect_from: ["/post/2005/11/18/Precision-Timer-in-NET-20", "/post/2005/11/18/precision-timer-in-net-20"]
+redirect_from: ["/post/2005/11/18/Precision-Timer-in-NET-20.aspx", "/post/2005/11/18/precision-timer-in-net-20.aspx"]
 author: jerome
 ---
 <!-- more -->

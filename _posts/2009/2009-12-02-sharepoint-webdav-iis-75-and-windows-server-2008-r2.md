@@ -5,7 +5,7 @@ date: 2009-12-02 18:02:49 -0500
 comments: true
 category: Archive
 tags: ["Sharepoint"]
-redirect_from: ["/post/2009/12/02/SharePoint-WebDAV-IIS-75-and-Windows-Server-2008-R2", "/post/2009/12/02/sharepoint-webdav-iis-75-and-windows-server-2008-r2"]
+redirect_from: ["/post/2009/12/02/SharePoint-WebDAV-IIS-75-and-Windows-Server-2008-R2.aspx", "/post/2009/12/02/sharepoint-webdav-iis-75-and-windows-server-2008-r2.aspx"]
 author: jay
 ---
 <!-- more -->

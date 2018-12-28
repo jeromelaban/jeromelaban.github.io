@@ -5,7 +5,7 @@ date: 2008-03-24 13:49:00 -0400
 comments: true
 category: Archive
 tags: ["Bluetooth Remote Control", "Misc"]
-redirect_from: ["/post/2008/03/24/Windows-Server-2008-and-Microsoft-Bluetooth-Stack-trouble", "/post/2008/03/24/windows-server-2008-and-microsoft-bluetooth-stack-trouble"]
+redirect_from: ["/post/2008/03/24/Windows-Server-2008-and-Microsoft-Bluetooth-Stack-trouble.aspx", "/post/2008/03/24/windows-server-2008-and-microsoft-bluetooth-stack-trouble.aspx"]
 author: jerome
 ---
 <!-- more -->

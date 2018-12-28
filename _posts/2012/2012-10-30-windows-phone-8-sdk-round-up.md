@@ -5,7 +5,7 @@ date: 2012-10-30 07:45:18 -0400
 comments: true
 category: Archive
 tags: []
-redirect_from: ["/post/2012/10/30/Windows-Phone-8-SDK-Round-up", "/post/2012/10/30/windows-phone-8-sdk-round-up"]
+redirect_from: ["/post/2012/10/30/Windows-Phone-8-SDK-Round-up.aspx", "/post/2012/10/30/windows-phone-8-sdk-round-up.aspx"]
 author: admin
 ---
 <!-- more -->

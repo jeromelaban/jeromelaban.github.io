@@ -5,7 +5,7 @@ date: 2007-02-15 21:47:00 -0500
 comments: true
 category: Archive
 tags: [".NET"]
-redirect_from: ["/post/2007/02/15/WPF-DataBinding-and-Application-Settings", "/post/2007/02/15/wpf-databinding-and-application-settings"]
+redirect_from: ["/post/2007/02/15/WPF-DataBinding-and-Application-Settings.aspx", "/post/2007/02/15/wpf-databinding-and-application-settings.aspx"]
 author: jerome
 ---
 <!-- more -->

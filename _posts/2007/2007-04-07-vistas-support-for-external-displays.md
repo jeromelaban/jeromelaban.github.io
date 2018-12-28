@@ -5,7 +5,7 @@ date: 2007-04-07 10:14:00 -0400
 comments: true
 category: Archive
 tags: ["Misc"]
-redirect_from: ["/post/2007/04/07/Vistas-Support-for-External-Displays", "/post/2007/04/07/vistas-support-for-external-displays"]
+redirect_from: ["/post/2007/04/07/Vistas-Support-for-External-Displays.aspx", "/post/2007/04/07/vistas-support-for-external-displays.aspx"]
 author: jerome
 ---
 <!-- more -->

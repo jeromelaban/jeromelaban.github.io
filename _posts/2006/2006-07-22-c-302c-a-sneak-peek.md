@@ -5,7 +5,7 @@ date: 2006-07-22 10:22:00 -0400
 comments: true
 category: Archive
 tags: [".NET"]
-redirect_from: ["/post/2006/07/22/C-302c-a-sneak-peek", "/post/2006/07/22/c-302c-a-sneak-peek"]
+redirect_from: ["/post/2006/07/22/C-302c-a-sneak-peek.aspx", "/post/2006/07/22/c-302c-a-sneak-peek.aspx"]
 author: jerome
 ---
 <!-- more -->

@@ -5,7 +5,7 @@ date: 2013-03-30 11:52:00 -0400
 comments: true
 category: Archive
 tags: [".NET"]
-redirect_from: ["/post/2013/03/30/VS2012-Temporarily-disable-the-C-static-code-analysis-for-a-whole-VS-instance", "/post/2013/03/30/vs2012-temporarily-disable-the-c-static-code-analysis-for-a-whole-vs-instance"]
+redirect_from: ["/post/2013/03/30/VS2012-Temporarily-disable-the-C-static-code-analysis-for-a-whole-VS-instance.aspx", "/post/2013/03/30/vs2012-temporarily-disable-the-c-static-code-analysis-for-a-whole-vs-instance.aspx"]
 author: jay
 ---
 <!-- more -->

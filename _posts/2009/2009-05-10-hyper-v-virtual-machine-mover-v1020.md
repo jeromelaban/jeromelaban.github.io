@@ -5,7 +5,7 @@ date: 2009-05-10 15:20:00 -0400
 comments: true
 category: Archive
 tags: []
-redirect_from: ["/post/2009/05/10/Hyper-V-Virtual-Machine-Mover-v1020", "/post/2009/05/10/hyper-v-virtual-machine-mover-v1020"]
+redirect_from: ["/post/2009/05/10/Hyper-V-Virtual-Machine-Mover-v1020.aspx", "/post/2009/05/10/hyper-v-virtual-machine-mover-v1020.aspx"]
 author: jay
 ---
 <!-- more -->

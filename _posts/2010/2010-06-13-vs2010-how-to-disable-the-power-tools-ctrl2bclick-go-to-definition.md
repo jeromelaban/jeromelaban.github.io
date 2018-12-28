@@ -5,7 +5,7 @@ date: 2010-06-13 17:17:00 -0400
 comments: true
 category: Archive
 tags: [".NET"]
-redirect_from: ["/post/2010/06/13/VS2010-How-to-disable-the-Power-Tools-Ctrl2bClick-Go-to-Definition", "/post/2010/06/13/vs2010-how-to-disable-the-power-tools-ctrl2bclick-go-to-definition"]
+redirect_from: ["/post/2010/06/13/VS2010-How-to-disable-the-Power-Tools-Ctrl2bClick-Go-to-Definition.aspx", "/post/2010/06/13/vs2010-how-to-disable-the-power-tools-ctrl2bclick-go-to-definition.aspx"]
 author: admin
 ---
 <!-- more -->

@@ -5,7 +5,7 @@ date: 2004-02-03 11:49:00 -0500
 comments: true
 category: Archive
 tags: ["Misc"]
-redirect_from: ["/post/2004/02/03/SEH-et-Exceptions-en-C2b2b", "/post/2004/02/03/seh-et-exceptions-en-c2b2b"]
+redirect_from: ["/post/2004/02/03/SEH-et-Exceptions-en-C2b2b.aspx", "/post/2004/02/03/seh-et-exceptions-en-c2b2b.aspx"]
 author: jerome
 ---
 <!-- more -->

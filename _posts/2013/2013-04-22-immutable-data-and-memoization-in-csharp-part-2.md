@@ -5,7 +5,7 @@ date: 2013-04-22 21:10:00 -0400
 comments: true
 category: Archive
 tags: [".NET"]
-redirect_from: ["/post/2013/04/22/Immutable-Data-and-Memoization-in-CSharp-Part-2", "/post/2013/04/22/immutable-data-and-memoization-in-csharp-part-2"]
+redirect_from: ["/post/2013/04/22/Immutable-Data-and-Memoization-in-CSharp-Part-2.aspx", "/post/2013/04/22/immutable-data-and-memoization-in-csharp-part-2.aspx"]
 author: jay
 ---
 <p><em>tl;dr: Memoization can be associated with the <a href="http://msdn.microsoft.com/en-us/library/dd287757.aspx">ConditionalWeakTable</a>&nbsp;class, which allows the addition of memoized computation results to immutable types. This makes the memoized results live as long as the instances that was used to create it.</em></p>

@@ -5,7 +5,7 @@ date: 2010-04-10 17:36:00 -0400
 comments: true
 category: Archive
 tags: ["Bluetooth Remote Control"]
-redirect_from: ["/post/2010/04/10/Remote-Control-1-0-for-powerpoint", "/post/2010/04/10/remote-control-1-0-for-powerpoint"]
+redirect_from: ["/post/2010/04/10/Remote-Control-1-0-for-powerpoint.aspx", "/post/2010/04/10/remote-control-1-0-for-powerpoint.aspx"]
 author: admin
 ---
 <!-- more -->

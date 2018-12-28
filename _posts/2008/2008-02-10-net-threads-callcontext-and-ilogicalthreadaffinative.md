@@ -5,7 +5,7 @@ date: 2008-02-10 21:53:00 -0500
 comments: true
 category: Archive
 tags: [".NET"]
-redirect_from: ["/post/2008/02/10/NET-Threads-CallContext-and-ILogicalThreadAffinative", "/post/2008/02/10/net-threads-callcontext-and-ilogicalthreadaffinative"]
+redirect_from: ["/post/2008/02/10/NET-Threads-CallContext-and-ILogicalThreadAffinative.aspx", "/post/2008/02/10/net-threads-callcontext-and-ilogicalthreadaffinative.aspx"]
 author: jerome
 ---
 <!-- more -->

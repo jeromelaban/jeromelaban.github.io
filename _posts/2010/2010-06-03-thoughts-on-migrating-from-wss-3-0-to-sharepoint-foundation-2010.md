@@ -5,7 +5,7 @@ date: 2010-06-03 21:31:00 -0400
 comments: true
 category: Archive
 tags: ["Sharepoint"]
-redirect_from: ["/post/2010/06/03/Thoughts-on-Migrating-from-WSS-3-0-to-SharePoint-Foundation-2010", "/post/2010/06/03/thoughts-on-migrating-from-wss-3-0-to-sharepoint-foundation-2010"]
+redirect_from: ["/post/2010/06/03/Thoughts-on-Migrating-from-WSS-3-0-to-SharePoint-Foundation-2010.aspx", "/post/2010/06/03/thoughts-on-migrating-from-wss-3-0-to-sharepoint-foundation-2010.aspx"]
 author: admin
 ---
 <!-- more -->

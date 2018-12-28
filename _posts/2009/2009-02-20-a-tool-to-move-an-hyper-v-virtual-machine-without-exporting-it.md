@@ -5,7 +5,7 @@ date: 2009-02-20 20:26:00 -0500
 comments: true
 category: Archive
 tags: []
-redirect_from: ["/post/2009/02/20/A-tool-to-move-an-Hyper-V-Virtual-Machine-without-exporting-it", "/post/2009/02/20/a-tool-to-move-an-hyper-v-virtual-machine-without-exporting-it"]
+redirect_from: ["/post/2009/02/20/A-tool-to-move-an-Hyper-V-Virtual-Machine-without-exporting-it.aspx", "/post/2009/02/20/a-tool-to-move-an-hyper-v-virtual-machine-without-exporting-it.aspx"]
 author: jay
 ---
 <!-- more -->

@@ -5,7 +5,7 @@ date: 2009-03-31 20:21:00 -0400
 comments: true
 category: Archive
 tags: ["Sharepoint"]
-redirect_from: ["/post/2009/03/31/Sharepoint-The-database-connection-string-is-not-available-(0xc0041228)", "/post/2009/03/31/sharepoint-the-database-connection-string-is-not-available-(0xc0041228)"]
+redirect_from: ["/post/2009/03/31/Sharepoint-The-database-connection-string-is-not-available-(0xc0041228).aspx", "/post/2009/03/31/sharepoint-the-database-connection-string-is-not-available-(0xc0041228).aspx"]
 author: jay
 ---
 <!-- more -->

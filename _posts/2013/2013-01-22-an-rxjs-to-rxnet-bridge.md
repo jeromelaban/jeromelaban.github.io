@@ -5,7 +5,7 @@ date: 2013-01-22 21:19:00 -0500
 comments: true
 category: Archive
 tags: [".NET", "Windows 8"]
-redirect_from: ["/post/2013/01/22/An-RxJS-to-RxNET-bridge", "/post/2013/01/22/an-rxjs-to-rxnet-bridge"]
+redirect_from: ["/post/2013/01/22/An-RxJS-to-RxNET-bridge.aspx", "/post/2013/01/22/an-rxjs-to-rxnet-bridge.aspx"]
 author: jay
 ---
 <!-- more -->

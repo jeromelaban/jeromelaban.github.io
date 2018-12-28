@@ -5,7 +5,7 @@ date: 2007-02-19 13:31:18 -0500
 comments: true
 category: Archive
 tags: ["My Life"]
-redirect_from: ["/post/2007/02/19/Atlantic-Shores-of-France", "/post/2007/02/19/atlantic-shores-of-france"]
+redirect_from: ["/post/2007/02/19/Atlantic-Shores-of-France.aspx", "/post/2007/02/19/atlantic-shores-of-france.aspx"]
 author: jerome
 ---
 <!-- more -->

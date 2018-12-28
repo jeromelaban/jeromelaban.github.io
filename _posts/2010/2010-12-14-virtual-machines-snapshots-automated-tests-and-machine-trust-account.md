@@ -5,7 +5,7 @@ date: 2010-12-14 21:47:00 -0500
 comments: true
 category: Archive
 tags: []
-redirect_from: ["/post/2010/12/14/Virtual-Machines-Snapshots-Automated-Tests-and-Machine-Trust-Account", "/post/2010/12/14/virtual-machines-snapshots-automated-tests-and-machine-trust-account"]
+redirect_from: ["/post/2010/12/14/Virtual-Machines-Snapshots-Automated-Tests-and-Machine-Trust-Account.aspx", "/post/2010/12/14/virtual-machines-snapshots-automated-tests-and-machine-trust-account.aspx"]
 author: jay
 ---
 <!-- more -->

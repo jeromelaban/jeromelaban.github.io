@@ -5,7 +5,7 @@ date: 2004-04-04 11:51:00 -0500
 comments: true
 category: Archive
 tags: [".NET"]
-redirect_from: ["/post/2004/04/04/SyncProxy2c-an-implicit-synchronizer", "/post/2004/04/04/syncproxy2c-an-implicit-synchronizer"]
+redirect_from: ["/post/2004/04/04/SyncProxy2c-an-implicit-synchronizer.aspx", "/post/2004/04/04/syncproxy2c-an-implicit-synchronizer.aspx"]
 author: jerome
 ---
 <!-- more -->

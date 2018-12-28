@@ -5,7 +5,7 @@ date: 2008-11-01 11:13:00 -0400
 comments: true
 category: Archive
 tags: ["Bus Stop Locator"]
-redirect_from: ["/post/2008/11/01/Montreal-Bus-Stop-Locator-Site-and-the-iPhone", "/post/2008/11/01/montreal-bus-stop-locator-site-and-the-iphone"]
+redirect_from: ["/post/2008/11/01/Montreal-Bus-Stop-Locator-Site-and-the-iPhone.aspx", "/post/2008/11/01/montreal-bus-stop-locator-site-and-the-iphone.aspx"]
 author: jay
 ---
 <!-- more -->

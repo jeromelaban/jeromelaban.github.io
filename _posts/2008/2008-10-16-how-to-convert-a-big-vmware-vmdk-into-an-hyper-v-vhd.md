@@ -5,7 +5,7 @@ date: 2008-10-16 19:36:00 -0400
 comments: true
 category: Archive
 tags: ["Misc"]
-redirect_from: ["/post/2008/10/16/How-to-convert-a-big-VMWare-VMDK-into-an-Hyper-V-VHD", "/post/2008/10/16/how-to-convert-a-big-vmware-vmdk-into-an-hyper-v-vhd"]
+redirect_from: ["/post/2008/10/16/How-to-convert-a-big-VMWare-VMDK-into-an-Hyper-V-VHD.aspx", "/post/2008/10/16/how-to-convert-a-big-vmware-vmdk-into-an-hyper-v-vhd.aspx"]
 author: jay
 ---
 <!-- more -->

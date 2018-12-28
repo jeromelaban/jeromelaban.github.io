@@ -5,7 +5,7 @@ date: 2010-03-06 17:38:00 -0500
 comments: true
 category: Archive
 tags: [".NET"]
-redirect_from: ["/post/2010/03/06/VS2010-Configure-Code-Analysis-for-Whole-the-Solution", "/post/2010/03/06/vs2010-configure-code-analysis-for-whole-the-solution"]
+redirect_from: ["/post/2010/03/06/VS2010-Configure-Code-Analysis-for-Whole-the-Solution.aspx", "/post/2010/03/06/vs2010-configure-code-analysis-for-whole-the-solution.aspx"]
 author: jay
 ---
 <!-- more -->

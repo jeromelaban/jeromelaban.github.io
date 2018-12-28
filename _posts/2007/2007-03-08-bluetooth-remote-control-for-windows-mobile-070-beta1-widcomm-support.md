@@ -5,7 +5,7 @@ date: 2007-03-08 18:01:00 -0500
 comments: true
 category: Archive
 tags: ["Bluetooth Remote Control"]
-redirect_from: ["/post/2007/03/08/Bluetooth-Remote-Control-for-Windows-Mobile-070-Beta1-Widcomm-Support", "/post/2007/03/08/bluetooth-remote-control-for-windows-mobile-070-beta1-widcomm-support"]
+redirect_from: ["/post/2007/03/08/Bluetooth-Remote-Control-for-Windows-Mobile-070-Beta1-Widcomm-Support.aspx", "/post/2007/03/08/bluetooth-remote-control-for-windows-mobile-070-beta1-widcomm-support.aspx"]
 author: jerome
 ---
 <!-- more -->

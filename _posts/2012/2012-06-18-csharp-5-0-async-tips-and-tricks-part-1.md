@@ -5,7 +5,7 @@ date: 2012-06-18 21:22:00 -0400
 comments: true
 category: Archive
 tags: [".NET", "Windows 8"]
-redirect_from: ["/post/2012/06/18/CSharp-5-0-Async-Tips-and-Tricks-Part-1", "/post/2012/06/18/csharp-5-0-async-tips-and-tricks-part-1"]
+redirect_from: ["/post/2012/06/18/CSharp-5-0-Async-Tips-and-Tricks-Part-1.aspx", "/post/2012/06/18/csharp-5-0-async-tips-and-tricks-part-1.aspx"]
 author: jay
 ---
 <!-- more -->

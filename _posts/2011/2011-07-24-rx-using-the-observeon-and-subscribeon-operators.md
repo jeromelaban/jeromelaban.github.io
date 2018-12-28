@@ -5,7 +5,7 @@ date: 2011-07-24 20:04:00 -0400
 comments: true
 category: Archive
 tags: [".NET"]
-redirect_from: ["/post/2011/07/24/Rx-Using-the-ObserveOn-and-SubscribeOn-operators", "/post/2011/07/24/rx-using-the-observeon-and-subscribeon-operators"]
+redirect_from: ["/post/2011/07/24/Rx-Using-the-ObserveOn-and-SubscribeOn-operators.aspx", "/post/2011/07/24/rx-using-the-observeon-and-subscribeon-operators.aspx"]
 author: jay
 ---
 <!-- more -->

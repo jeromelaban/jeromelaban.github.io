@@ -5,7 +5,7 @@ date: 2007-01-30 17:56:00 -0500
 comments: true
 category: Archive
 tags: ["Misc"]
-redirect_from: ["/post/2007/01/30/Vistas-Reliability-Monitor-in-year-1970", "/post/2007/01/30/vistas-reliability-monitor-in-year-1970"]
+redirect_from: ["/post/2007/01/30/Vistas-Reliability-Monitor-in-year-1970.aspx", "/post/2007/01/30/vistas-reliability-monitor-in-year-1970.aspx"]
 author: jerome
 ---
 <!-- more -->

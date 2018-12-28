@@ -5,7 +5,7 @@ date: 2007-04-15 11:06:00 -0400
 comments: true
 category: Archive
 tags: [".NET"]
-redirect_from: ["/post/2007/04/15/WCF-WebService-behind-a-NAT-Gateway", "/post/2007/04/15/wcf-webservice-behind-a-nat-gateway"]
+redirect_from: ["/post/2007/04/15/WCF-WebService-behind-a-NAT-Gateway.aspx", "/post/2007/04/15/wcf-webservice-behind-a-nat-gateway.aspx"]
 author: jerome
 ---
 <!-- more -->

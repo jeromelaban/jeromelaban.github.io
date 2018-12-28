@@ -5,7 +5,7 @@ date: 2012-03-16 20:41:00 -0400
 comments: true
 category: Archive
 tags: [".NET", "Windows 8"]
-redirect_from: ["/post/2012/03/16/Windows-8-Event-Viewer-and-Metro-Style-apps", "/post/2012/03/16/windows-8-event-viewer-and-metro-style-apps"]
+redirect_from: ["/post/2012/03/16/Windows-8-Event-Viewer-and-Metro-Style-apps.aspx", "/post/2012/03/16/windows-8-event-viewer-and-metro-style-apps.aspx"]
 author: jay
 ---
 <!-- more -->

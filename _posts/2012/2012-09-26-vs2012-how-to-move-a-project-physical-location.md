@@ -5,7 +5,7 @@ date: 2012-09-26 19:02:00 -0400
 comments: true
 category: Archive
 tags: [".NET"]
-redirect_from: ["/post/2012/09/26/VS2012-How-to-move-a-project-physical-location", "/post/2012/09/26/vs2012-how-to-move-a-project-physical-location"]
+redirect_from: ["/post/2012/09/26/VS2012-How-to-move-a-project-physical-location.aspx", "/post/2012/09/26/vs2012-how-to-move-a-project-physical-location.aspx"]
 author: jay
 ---
 <!-- more -->

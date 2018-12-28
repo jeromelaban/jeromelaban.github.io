@@ -5,7 +5,7 @@ date: 2008-09-07 09:28:00 -0400
 comments: true
 category: Archive
 tags: ["Bus Stop Locator"]
-redirect_from: ["/post/2008/09/07/Pocket-IE-and-Setting-IMG-Src-via-JavaScript", "/post/2008/09/07/pocket-ie-and-setting-img-src-via-javascript"]
+redirect_from: ["/post/2008/09/07/Pocket-IE-and-Setting-IMG-Src-via-JavaScript.aspx", "/post/2008/09/07/pocket-ie-and-setting-img-src-via-javascript.aspx"]
 author: jay
 ---
 <!-- more -->

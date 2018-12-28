@@ -5,7 +5,7 @@ date: 2009-05-17 09:10:00 -0400
 comments: true
 category: Archive
 tags: [".NET"]
-redirect_from: ["/post/2009/05/17/A-csharp-Traverse-extension-method-with-an-Fsharp-detour", "/post/2009/05/17/a-csharp-traverse-extension-method-with-an-fsharp-detour"]
+redirect_from: ["/post/2009/05/17/A-csharp-Traverse-extension-method-with-an-Fsharp-detour.aspx", "/post/2009/05/17/a-csharp-traverse-extension-method-with-an-fsharp-detour.aspx"]
 author: jay
 ---
 <!-- more -->

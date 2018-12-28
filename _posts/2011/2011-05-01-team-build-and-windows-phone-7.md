@@ -5,7 +5,7 @@ date: 2011-05-01 00:00:00 -0400
 comments: true
 category: Archive
 tags: [".NET", "Windows Phone Dev"]
-redirect_from: ["/post/2011/05/01/Team-Build-and-Windows-Phone-7", "/post/2011/05/01/team-build-and-windows-phone-7"]
+redirect_from: ["/post/2011/05/01/Team-Build-and-Windows-Phone-7.aspx", "/post/2011/05/01/team-build-and-windows-phone-7.aspx"]
 author: jay
 ---
 <!-- more -->

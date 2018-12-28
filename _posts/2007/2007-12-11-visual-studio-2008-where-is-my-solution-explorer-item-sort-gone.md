@@ -5,7 +5,7 @@ date: 2007-12-11 13:58:00 -0500
 comments: true
 category: Archive
 tags: [".NET"]
-redirect_from: ["/post/2007/12/11/Visual-Studio-2008-Where-is-my-Solution-Explorer-item-sort-gone", "/post/2007/12/11/visual-studio-2008-where-is-my-solution-explorer-item-sort-gone"]
+redirect_from: ["/post/2007/12/11/Visual-Studio-2008-Where-is-my-Solution-Explorer-item-sort-gone.aspx", "/post/2007/12/11/visual-studio-2008-where-is-my-solution-explorer-item-sort-gone.aspx"]
 author: jerome
 ---
 <!-- more -->

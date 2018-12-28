@@ -5,7 +5,7 @@ date: 2008-11-18 20:58:00 -0500
 comments: true
 category: Archive
 tags: [".NET"]
-redirect_from: ["/post/2008/11/18/Lambda-Expression-and-ForEach-loops", "/post/2008/11/18/lambda-expression-and-foreach-loops"]
+redirect_from: ["/post/2008/11/18/Lambda-Expression-and-ForEach-loops.aspx", "/post/2008/11/18/lambda-expression-and-foreach-loops.aspx"]
 author: jay
 ---
 <!-- more -->

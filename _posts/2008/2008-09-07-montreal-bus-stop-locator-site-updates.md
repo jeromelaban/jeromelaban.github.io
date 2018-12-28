@@ -5,7 +5,7 @@ date: 2008-09-07 09:06:00 -0400
 comments: true
 category: Archive
 tags: ["Bus Stop Locator"]
-redirect_from: ["/post/2008/09/07/Montreal-Bus-Stop-Locator-Site-Updates", "/post/2008/09/07/montreal-bus-stop-locator-site-updates"]
+redirect_from: ["/post/2008/09/07/Montreal-Bus-Stop-Locator-Site-Updates.aspx", "/post/2008/09/07/montreal-bus-stop-locator-site-updates.aspx"]
 author: jay
 ---
 <!-- more -->

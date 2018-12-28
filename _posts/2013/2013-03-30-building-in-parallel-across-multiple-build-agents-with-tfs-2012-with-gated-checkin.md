@@ -5,7 +5,7 @@ date: 2013-03-30 12:50:00 -0400
 comments: true
 category: Archive
 tags: [".NET", "Windows 8", "Windows Phone Dev"]
-redirect_from: ["/post/2013/03/30/Building-in-Parallel-Across-Multiple-Build-Agents-with-TFS-2012-with-Gated-Checkin", "/post/2013/03/30/building-in-parallel-across-multiple-build-agents-with-tfs-2012-with-gated-checkin"]
+redirect_from: ["/post/2013/03/30/Building-in-Parallel-Across-Multiple-Build-Agents-with-TFS-2012-with-Gated-Checkin.aspx", "/post/2013/03/30/building-in-parallel-across-multiple-build-agents-with-tfs-2012-with-gated-checkin.aspx"]
 author: jay
 ---
 <!-- more -->

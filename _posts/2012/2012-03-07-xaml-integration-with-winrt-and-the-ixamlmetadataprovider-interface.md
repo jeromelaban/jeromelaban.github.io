@@ -5,7 +5,7 @@ date: 2012-03-07 21:04:00 -0500
 comments: true
 category: Archive
 tags: [".NET", "Windows 8"]
-redirect_from: ["/post/2012/03/07/Xaml-integration-with-WinRT-and-the-IXamlMetadataProvider-interface", "/post/2012/03/07/xaml-integration-with-winrt-and-the-ixamlmetadataprovider-interface"]
+redirect_from: ["/post/2012/03/07/Xaml-integration-with-WinRT-and-the-IXamlMetadataProvider-interface.aspx", "/post/2012/03/07/xaml-integration-with-winrt-and-the-ixamlmetadataprovider-interface.aspx"]
 author: jay
 ---
 <!-- more -->

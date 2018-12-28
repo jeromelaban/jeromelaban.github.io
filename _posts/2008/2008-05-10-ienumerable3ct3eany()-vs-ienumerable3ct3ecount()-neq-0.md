@@ -5,7 +5,7 @@ date: 2008-05-10 11:10:00 -0400
 comments: true
 category: Archive
 tags: [".NET"]
-redirect_from: ["/post/2008/05/10/IEnumerable3cT3eAny()-vs-IEnumerable3cT3eCount()-neq-0", "/post/2008/05/10/ienumerable3ct3eany()-vs-ienumerable3ct3ecount()-neq-0"]
+redirect_from: ["/post/2008/05/10/IEnumerable3cT3eAny()-vs-IEnumerable3cT3eCount()-neq-0.aspx", "/post/2008/05/10/ienumerable3ct3eany()-vs-ienumerable3ct3ecount()-neq-0.aspx"]
 author: jay
 ---
 <!-- more -->

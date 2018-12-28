@@ -5,7 +5,7 @@ date: 2005-02-22 11:31:09 -0500
 comments: true
 category: Archive
 tags: ["Misc"]
-redirect_from: ["/post/2005/02/22/BartPE-using-PXE2c-Again", "/post/2005/02/22/bartpe-using-pxe2c-again"]
+redirect_from: ["/post/2005/02/22/BartPE-using-PXE2c-Again.aspx", "/post/2005/02/22/bartpe-using-pxe2c-again.aspx"]
 author: jerome
 ---
 <!-- more -->

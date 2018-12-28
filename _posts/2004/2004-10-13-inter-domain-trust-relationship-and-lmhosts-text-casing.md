@@ -5,7 +5,7 @@ date: 2004-10-13 11:40:00 -0500
 comments: true
 category: Archive
 tags: ["Misc"]
-redirect_from: ["/post/2004/10/13/Inter-Domain-Trust-Relationship-and-lmhosts-Text-Casing", "/post/2004/10/13/inter-domain-trust-relationship-and-lmhosts-text-casing"]
+redirect_from: ["/post/2004/10/13/Inter-Domain-Trust-Relationship-and-lmhosts-Text-Casing.aspx", "/post/2004/10/13/inter-domain-trust-relationship-and-lmhosts-text-casing.aspx"]
 author: jerome
 ---
 <!-- more -->

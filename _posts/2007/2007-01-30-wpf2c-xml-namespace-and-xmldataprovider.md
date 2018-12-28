@@ -5,7 +5,7 @@ date: 2007-01-30 16:15:00 -0500
 comments: true
 category: Archive
 tags: [".NET"]
-redirect_from: ["/post/2007/01/30/WPF2c-Xml-namespace-and-XmlDataProvider", "/post/2007/01/30/wpf2c-xml-namespace-and-xmldataprovider"]
+redirect_from: ["/post/2007/01/30/WPF2c-Xml-namespace-and-XmlDataProvider.aspx", "/post/2007/01/30/wpf2c-xml-namespace-and-xmldataprovider.aspx"]
 author: jerome
 ---
 <!-- more -->

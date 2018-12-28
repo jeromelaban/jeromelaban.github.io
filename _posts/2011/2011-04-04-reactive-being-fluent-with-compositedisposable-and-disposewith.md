@@ -5,7 +5,7 @@ date: 2011-04-04 13:48:00 -0400
 comments: true
 category: Archive
 tags: [".NET"]
-redirect_from: ["/post/2011/04/04/Reactive-Being-fluent-with-CompositeDisposable-and-DisposeWith", "/post/2011/04/04/reactive-being-fluent-with-compositedisposable-and-disposewith"]
+redirect_from: ["/post/2011/04/04/Reactive-Being-fluent-with-CompositeDisposable-and-DisposeWith.aspx", "/post/2011/04/04/reactive-being-fluent-with-compositedisposable-and-disposewith.aspx"]
 author: jay
 ---
 <!-- more -->

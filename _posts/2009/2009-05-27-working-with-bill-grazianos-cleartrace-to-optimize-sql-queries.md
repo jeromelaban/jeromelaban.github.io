@@ -5,7 +5,7 @@ date: 2009-05-27 19:37:00 -0400
 comments: true
 category: Archive
 tags: [".NET"]
-redirect_from: ["/post/2009/05/27/Working-with-Bill-Grazianos-ClearTrace-to-optimize-SQL-queries", "/post/2009/05/27/working-with-bill-grazianos-cleartrace-to-optimize-sql-queries"]
+redirect_from: ["/post/2009/05/27/Working-with-Bill-Grazianos-ClearTrace-to-optimize-SQL-queries.aspx", "/post/2009/05/27/working-with-bill-grazianos-cleartrace-to-optimize-sql-queries.aspx"]
 author: jay
 ---
 <!-- more -->

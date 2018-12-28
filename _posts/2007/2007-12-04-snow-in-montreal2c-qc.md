@@ -5,7 +5,7 @@ date: 2007-12-04 20:16:00 -0500
 comments: true
 category: Archive
 tags: ["Digital Photography"]
-redirect_from: ["/post/2007/12/04/Snow-in-Montreal2c-QC", "/post/2007/12/04/snow-in-montreal2c-qc"]
+redirect_from: ["/post/2007/12/04/Snow-in-Montreal2c-QC.aspx", "/post/2007/12/04/snow-in-montreal2c-qc.aspx"]
 author: jerome
 ---
 <!-- more -->

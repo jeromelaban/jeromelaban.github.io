@@ -5,7 +5,7 @@ date: 2005-04-04 11:35:00 -0500
 comments: true
 category: Archive
 tags: [".NET"]
-redirect_from: ["/post/2005/04/04/Reflective-Visitor-using-C", "/post/2005/04/04/reflective-visitor-using-c"]
+redirect_from: ["/post/2005/04/04/Reflective-Visitor-using-C.aspx", "/post/2005/04/04/reflective-visitor-using-c.aspx"]
 author: jerome
 ---
 <!-- more -->

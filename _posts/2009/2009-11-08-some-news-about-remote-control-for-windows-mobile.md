@@ -5,7 +5,7 @@ date: 2009-11-08 20:38:00 -0500
 comments: true
 category: Archive
 tags: ["Bluetooth Remote Control"]
-redirect_from: ["/post/2009/11/08/Some-news-about-Remote-Control-for-Windows-Mobile", "/post/2009/11/08/some-news-about-remote-control-for-windows-mobile"]
+redirect_from: ["/post/2009/11/08/Some-news-about-Remote-Control-for-Windows-Mobile.aspx", "/post/2009/11/08/some-news-about-remote-control-for-windows-mobile.aspx"]
 author: jay
 ---
 <!-- more -->

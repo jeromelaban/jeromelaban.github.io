@@ -5,7 +5,7 @@ date: 2011-04-22 14:54:00 -0400
 comments: true
 category: Archive
 tags: [".NET", "Windows Phone Dev"]
-redirect_from: ["/post/2011/04/22/WP7-HttpWebRequest-and-the-Flickr-app-Black-Screen-issue", "/post/2011/04/22/wp7-httpwebrequest-and-the-flickr-app-black-screen-issue"]
+redirect_from: ["/post/2011/04/22/WP7-HttpWebRequest-and-the-Flickr-app-Black-Screen-issue.aspx", "/post/2011/04/22/wp7-httpwebrequest-and-the-flickr-app-black-screen-issue.aspx"]
 author: jay
 ---
 <!-- more -->

@@ -5,7 +5,7 @@ date: 2011-09-21 19:04:00 -0400
 comments: true
 category: Archive
 tags: []
-redirect_from: ["/post/2011/09/21/WP7Dev-Diagnosing-StackOverflowExceptions-or-the-lack-thereof", "/post/2011/09/21/wp7dev-diagnosing-stackoverflowexceptions-or-the-lack-thereof"]
+redirect_from: ["/post/2011/09/21/WP7Dev-Diagnosing-StackOverflowExceptions-or-the-lack-thereof.aspx", "/post/2011/09/21/wp7dev-diagnosing-stackoverflowexceptions-or-the-lack-thereof.aspx"]
 author: jay
 ---
 <!-- more -->

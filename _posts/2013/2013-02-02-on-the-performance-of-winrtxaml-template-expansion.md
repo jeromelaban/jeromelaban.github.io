@@ -5,7 +5,7 @@ date: 2013-02-02 15:11:00 -0500
 comments: true
 category: Archive
 tags: [".NET", "Windows 8"]
-redirect_from: ["/post/2013/02/02/On-the-Performance-of-WinRTXaml-Template-Expansion", "/post/2013/02/02/on-the-performance-of-winrtxaml-template-expansion"]
+redirect_from: ["/post/2013/02/02/On-the-Performance-of-WinRTXaml-Template-Expansion.aspx", "/post/2013/02/02/on-the-performance-of-winrtxaml-template-expansion.aspx"]
 author: jay
 ---
 <!-- more -->

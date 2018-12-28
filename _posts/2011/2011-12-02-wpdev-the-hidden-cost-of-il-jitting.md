@@ -5,7 +5,7 @@ date: 2011-12-02 22:35:00 -0500
 comments: true
 category: Archive
 tags: [".NET", "Windows Phone Dev"]
-redirect_from: ["/post/2011/12/02/WPDev-The-hidden-cost-of-IL-Jitting", "/post/2011/12/02/wpdev-the-hidden-cost-of-il-jitting"]
+redirect_from: ["/post/2011/12/02/WPDev-The-hidden-cost-of-IL-Jitting.aspx", "/post/2011/12/02/wpdev-the-hidden-cost-of-il-jitting.aspx"]
 author: jay
 ---
 <!-- more -->

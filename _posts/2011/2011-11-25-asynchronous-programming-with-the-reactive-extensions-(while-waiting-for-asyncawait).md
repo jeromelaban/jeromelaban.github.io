@@ -5,7 +5,7 @@ date: 2011-11-25 20:43:00 -0500
 comments: true
 category: Archive
 tags: []
-redirect_from: ["/post/2011/11/25/Asynchronous-Programming-with-the-Reactive-Extensions-(while-waiting-for-asyncawait)", "/post/2011/11/25/asynchronous-programming-with-the-reactive-extensions-(while-waiting-for-asyncawait)"]
+redirect_from: ["/post/2011/11/25/Asynchronous-Programming-with-the-Reactive-Extensions-(while-waiting-for-asyncawait).aspx", "/post/2011/11/25/asynchronous-programming-with-the-reactive-extensions-(while-waiting-for-asyncawait).aspx"]
 author: jay
 ---
 <!-- more -->

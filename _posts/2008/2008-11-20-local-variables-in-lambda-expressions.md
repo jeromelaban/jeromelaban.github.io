@@ -5,7 +5,7 @@ date: 2008-11-20 19:58:00 -0500
 comments: true
 category: Archive
 tags: [".NET"]
-redirect_from: ["/post/2008/11/20/Local-Variables-in-Lambda-Expressions", "/post/2008/11/20/local-variables-in-lambda-expressions"]
+redirect_from: ["/post/2008/11/20/Local-Variables-in-Lambda-Expressions.aspx", "/post/2008/11/20/local-variables-in-lambda-expressions.aspx"]
 author: jay
 ---
 <!-- more -->

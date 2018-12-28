@@ -5,7 +5,7 @@ date: 2007-02-07 04:35:16 -0500
 comments: true
 category: Archive
 tags: ["Bluetooth Remote Control"]
-redirect_from: ["/post/2007/02/07/The-file-is-not-a-valid-Windows-CE-Setup-file", "/post/2007/02/07/the-file-is-not-a-valid-windows-ce-setup-file"]
+redirect_from: ["/post/2007/02/07/The-file-is-not-a-valid-Windows-CE-Setup-file.aspx", "/post/2007/02/07/the-file-is-not-a-valid-windows-ce-setup-file.aspx"]
 author: jerome
 ---
 <!-- more -->

@@ -5,7 +5,7 @@ date: 2007-01-31 15:36:00 -0500
 comments: true
 category: Archive
 tags: ["Misc"]
-redirect_from: ["/post/2007/01/31/Vista-Versions-and-Confusion", "/post/2007/01/31/vista-versions-and-confusion"]
+redirect_from: ["/post/2007/01/31/Vista-Versions-and-Confusion.aspx", "/post/2007/01/31/vista-versions-and-confusion.aspx"]
 author: jerome
 ---
 <!-- more -->

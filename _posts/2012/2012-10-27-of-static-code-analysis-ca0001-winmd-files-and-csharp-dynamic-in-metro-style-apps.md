@@ -5,7 +5,7 @@ date: 2012-10-27 12:42:00 -0400
 comments: true
 category: Archive
 tags: [".NET", "Windows 8"]
-redirect_from: ["/post/2012/10/27/Of-Static-Code-Analysis-CA0001-WinMD-files-and-CSharp-Dynamic-in-Metro-Style-apps", "/post/2012/10/27/of-static-code-analysis-ca0001-winmd-files-and-csharp-dynamic-in-metro-style-apps"]
+redirect_from: ["/post/2012/10/27/Of-Static-Code-Analysis-CA0001-WinMD-files-and-CSharp-Dynamic-in-Metro-Style-apps.aspx", "/post/2012/10/27/of-static-code-analysis-ca0001-winmd-files-and-csharp-dynamic-in-metro-style-apps.aspx"]
 author: jay
 ---
 <!-- more -->

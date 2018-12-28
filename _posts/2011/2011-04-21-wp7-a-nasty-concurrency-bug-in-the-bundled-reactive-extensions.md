@@ -5,7 +5,7 @@ date: 2011-04-21 20:05:00 -0400
 comments: true
 category: Archive
 tags: [".NET", "Windows Phone Dev"]
-redirect_from: ["/post/2011/04/21/WP7-A-nasty-concurrency-bug-in-the-bundled-Reactive-Extensions", "/post/2011/04/21/wp7-a-nasty-concurrency-bug-in-the-bundled-reactive-extensions"]
+redirect_from: ["/post/2011/04/21/WP7-A-nasty-concurrency-bug-in-the-bundled-Reactive-Extensions.aspx", "/post/2011/04/21/wp7-a-nasty-concurrency-bug-in-the-bundled-reactive-extensions.aspx"]
 author: admin
 ---
 <!-- more -->

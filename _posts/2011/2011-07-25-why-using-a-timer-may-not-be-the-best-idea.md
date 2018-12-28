@@ -5,7 +5,7 @@ date: 2011-07-25 00:00:00 -0400
 comments: true
 category: Archive
 tags: [".NET"]
-redirect_from: ["/post/2011/07/25/Why-using-a-timer-may-not-be-the-best-idea", "/post/2011/07/25/why-using-a-timer-may-not-be-the-best-idea"]
+redirect_from: ["/post/2011/07/25/Why-using-a-timer-may-not-be-the-best-idea.aspx", "/post/2011/07/25/why-using-a-timer-may-not-be-the-best-idea.aspx"]
 author: jay
 ---
 <!-- more -->

@@ -5,7 +5,7 @@ date: 2008-03-17 19:26:00 -0400
 comments: true
 category: Archive
 tags: [".NET"]
-redirect_from: ["/post/2008/03/17/Visual-Studio-2008-Solution-Tree-Items-Collapse", "/post/2008/03/17/visual-studio-2008-solution-tree-items-collapse"]
+redirect_from: ["/post/2008/03/17/Visual-Studio-2008-Solution-Tree-Items-Collapse.aspx", "/post/2008/03/17/visual-studio-2008-solution-tree-items-collapse.aspx"]
 author: jerome
 ---
 <!-- more -->

@@ -5,7 +5,7 @@ date: 2007-09-10 11:26:00 -0400
 comments: true
 category: Archive
 tags: ["Bluetooth Remote Control"]
-redirect_from: ["/post/2007/09/10/Bluetooth-Remote-Control-083-Broadcom-Bluetooth-Support-for-Windows-Mobile", "/post/2007/09/10/bluetooth-remote-control-083-broadcom-bluetooth-support-for-windows-mobile"]
+redirect_from: ["/post/2007/09/10/Bluetooth-Remote-Control-083-Broadcom-Bluetooth-Support-for-Windows-Mobile.aspx", "/post/2007/09/10/bluetooth-remote-control-083-broadcom-bluetooth-support-for-windows-mobile.aspx"]
 author: jerome
 ---
 <!-- more -->

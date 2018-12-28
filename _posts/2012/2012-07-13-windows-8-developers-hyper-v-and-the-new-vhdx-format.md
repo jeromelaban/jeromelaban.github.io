@@ -5,7 +5,7 @@ date: 2012-07-13 22:03:00 -0400
 comments: true
 category: Archive
 tags: ["Windows 8"]
-redirect_from: ["/post/2012/07/13/Windows-8-Developers-Hyper-V-and-the-new-VHDX-format", "/post/2012/07/13/windows-8-developers-hyper-v-and-the-new-vhdx-format"]
+redirect_from: ["/post/2012/07/13/Windows-8-Developers-Hyper-V-and-the-new-VHDX-format.aspx", "/post/2012/07/13/windows-8-developers-hyper-v-and-the-new-vhdx-format.aspx"]
 author: jay
 ---
 <!-- more -->

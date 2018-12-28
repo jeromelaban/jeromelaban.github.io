@@ -5,7 +5,7 @@ date: 2011-09-29 19:10:00 -0400
 comments: true
 category: Archive
 tags: [".NET", "Windows Phone Dev"]
-redirect_from: ["/post/2011/09/29/wpdev-tips-and-tricks-about-updating-live-tiles-in-mango"]
+redirect_from: ["/post/2011/09/29/wpdev-tips-and-tricks-about-updating-live-tiles-in-mango.aspx"]
 author: jay
 ---
 <!-- more -->

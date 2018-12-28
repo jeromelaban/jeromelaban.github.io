@@ -5,7 +5,7 @@ date: 2007-08-22 15:44:00 -0400
 comments: true
 category: Archive
 tags: ["Bluetooth Remote Control"]
-redirect_from: ["/post/2007/08/22/Bluetooth-Remote-Control-082", "/post/2007/08/22/bluetooth-remote-control-082"]
+redirect_from: ["/post/2007/08/22/Bluetooth-Remote-Control-082.aspx", "/post/2007/08/22/bluetooth-remote-control-082.aspx"]
 author: jerome
 ---
 <!-- more -->

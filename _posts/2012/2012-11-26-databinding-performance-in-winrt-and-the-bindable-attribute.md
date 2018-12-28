@@ -5,7 +5,7 @@ date: 2012-11-26 20:51:00 -0500
 comments: true
 category: Archive
 tags: [".NET", "Windows 8"]
-redirect_from: ["/post/2012/11/26/DataBinding-performance-in-WinRT-and-the-Bindable-attribute", "/post/2012/11/26/databinding-performance-in-winrt-and-the-bindable-attribute"]
+redirect_from: ["/post/2012/11/26/DataBinding-performance-in-WinRT-and-the-Bindable-attribute.aspx", "/post/2012/11/26/databinding-performance-in-winrt-and-the-bindable-attribute.aspx"]
 author: jay
 ---
 <!-- more -->

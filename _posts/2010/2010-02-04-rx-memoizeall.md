@@ -5,7 +5,7 @@ date: 2010-02-04 18:21:00 -0500
 comments: true
 category: Archive
 tags: [".NET"]
-redirect_from: ["/post/2010/02/04/Rx-MemoizeAll", "/post/2010/02/04/rx-memoizeall"]
+redirect_from: ["/post/2010/02/04/Rx-MemoizeAll.aspx", "/post/2010/02/04/rx-memoizeall.aspx"]
 author: jay
 ---
 <!-- more -->

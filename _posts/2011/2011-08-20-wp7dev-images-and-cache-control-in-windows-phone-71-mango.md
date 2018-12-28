@@ -5,7 +5,7 @@ date: 2011-08-20 16:39:00 -0400
 comments: true
 category: Archive
 tags: [".NET", "Windows Phone Dev"]
-redirect_from: ["/post/2011/08/20/wp7dev-Images-and-cache-control-in-Windows-Phone-71-Mango", "/post/2011/08/20/wp7dev-images-and-cache-control-in-windows-phone-71-mango"]
+redirect_from: ["/post/2011/08/20/wp7dev-Images-and-cache-control-in-Windows-Phone-71-Mango.aspx", "/post/2011/08/20/wp7dev-images-and-cache-control-in-windows-phone-71-mango.aspx"]
 author: jay
 ---
 <!-- more -->

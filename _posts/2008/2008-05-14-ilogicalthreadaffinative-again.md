@@ -5,7 +5,7 @@ date: 2008-05-14 19:12:00 -0400
 comments: true
 category: Archive
 tags: [".NET"]
-redirect_from: ["/post/2008/05/14/ILogicalThreadAffinative-again", "/post/2008/05/14/ilogicalthreadaffinative-again"]
+redirect_from: ["/post/2008/05/14/ILogicalThreadAffinative-again.aspx", "/post/2008/05/14/ilogicalthreadaffinative-again.aspx"]
 author: jay
 ---
 <!-- more -->

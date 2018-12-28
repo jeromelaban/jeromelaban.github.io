@@ -5,7 +5,7 @@ date: 2008-03-16 17:54:00 -0400
 comments: true
 category: Archive
 tags: [".NET"]
-redirect_from: ["/post/2008/03/16/Blog-Update", "/post/2008/03/16/blog-update"]
+redirect_from: ["/post/2008/03/16/Blog-Update.aspx", "/post/2008/03/16/blog-update.aspx"]
 author: jerome
 ---
 <!-- more -->

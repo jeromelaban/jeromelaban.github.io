@@ -5,7 +5,7 @@ date: 2008-09-02 07:19:00 -0400
 comments: true
 category: Archive
 tags: [".NET"]
-redirect_from: ["/post/2008/09/02/NET-2-0-InternalsVisibleTo-Attribute-and-Unsigned-Assemblies", "/post/2008/09/02/net-2-0-internalsvisibleto-attribute-and-unsigned-assemblies"]
+redirect_from: ["/post/2008/09/02/NET-2-0-InternalsVisibleTo-Attribute-and-Unsigned-Assemblies.aspx", "/post/2008/09/02/net-2-0-internalsvisibleto-attribute-and-unsigned-assemblies.aspx"]
 author: jay
 ---
 <!-- more -->

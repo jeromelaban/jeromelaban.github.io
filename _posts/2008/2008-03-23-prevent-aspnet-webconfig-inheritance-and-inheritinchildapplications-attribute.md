@@ -5,7 +5,7 @@ date: 2008-03-23 12:34:00 -0400
 comments: true
 category: Archive
 tags: [".NET"]
-redirect_from: ["/post/2008/03/23/Prevent-ASPNET-webconfig-inheritance-and-inheritInChildApplications-attribute", "/post/2008/03/23/prevent-aspnet-webconfig-inheritance-and-inheritinchildapplications-attribute"]
+redirect_from: ["/post/2008/03/23/Prevent-ASPNET-webconfig-inheritance-and-inheritInChildApplications-attribute.aspx", "/post/2008/03/23/prevent-aspnet-webconfig-inheritance-and-inheritinchildapplications-attribute.aspx"]
 author: jerome
 ---
 <!-- more -->

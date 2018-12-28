@@ -5,7 +5,7 @@ date: 2012-10-08 20:12:00 -0400
 comments: true
 category: Archive
 tags: [".NET", "Windows 8", "Windows Phone Dev"]
-redirect_from: ["/post/2012/10/08/Implementing-an-asynchronous-settings-service-Part-2-Writing-a-setting", "/post/2012/10/08/implementing-an-asynchronous-settings-service-part-2-writing-a-setting"]
+redirect_from: ["/post/2012/10/08/Implementing-an-asynchronous-settings-service-Part-2-Writing-a-setting.aspx", "/post/2012/10/08/implementing-an-asynchronous-settings-service-part-2-writing-a-setting.aspx"]
 author: jay
 ---
 <!-- more -->

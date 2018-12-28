@@ -5,7 +5,7 @@ date: 2007-04-07 15:09:00 -0400
 comments: true
 category: Archive
 tags: ["Misc"]
-redirect_from: ["/post/2007/04/07/Unprotecting-Protected-Processes", "/post/2007/04/07/unprotecting-protected-processes"]
+redirect_from: ["/post/2007/04/07/Unprotecting-Protected-Processes.aspx", "/post/2007/04/07/unprotecting-protected-processes.aspx"]
 author: jerome
 ---
 <!-- more -->

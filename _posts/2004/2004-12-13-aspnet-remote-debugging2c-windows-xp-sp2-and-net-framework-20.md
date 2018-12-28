@@ -5,7 +5,7 @@ date: 2004-12-13 11:38:00 -0500
 comments: true
 category: Archive
 tags: [".NET"]
-redirect_from: ["/post/2004/12/13/ASPNET-Remote-Debugging2c-Windows-XP-SP2-and-NET-Framework-20", "/post/2004/12/13/aspnet-remote-debugging2c-windows-xp-sp2-and-net-framework-20"]
+redirect_from: ["/post/2004/12/13/ASPNET-Remote-Debugging2c-Windows-XP-SP2-and-NET-Framework-20.aspx", "/post/2004/12/13/aspnet-remote-debugging2c-windows-xp-sp2-and-net-framework-20.aspx"]
 author: jerome
 ---
 <!-- more -->

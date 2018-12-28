@@ -5,7 +5,7 @@ date: 2012-10-10 21:25:00 -0400
 comments: true
 category: Archive
 tags: []
-redirect_from: ["/post/2012/10/10/Implementing-an-asynchronous-settings-service-Part-3-Getting-notified", "/post/2012/10/10/implementing-an-asynchronous-settings-service-part-3-getting-notified"]
+redirect_from: ["/post/2012/10/10/Implementing-an-asynchronous-settings-service-Part-3-Getting-notified.aspx", "/post/2012/10/10/implementing-an-asynchronous-settings-service-part-3-getting-notified.aspx"]
 author: jay
 ---
 <!-- more -->

@@ -5,7 +5,7 @@ date: 2010-01-02 23:08:00 -0500
 comments: true
 category: Archive
 tags: [".NET"]
-redirect_from: ["/post/2010/01/02/WinForms-DataBinding-and-Updates-from-multiple-Threads", "/post/2010/01/02/winforms-databinding-and-updates-from-multiple-threads"]
+redirect_from: ["/post/2010/01/02/WinForms-DataBinding-and-Updates-from-multiple-Threads.aspx", "/post/2010/01/02/winforms-databinding-and-updates-from-multiple-threads.aspx"]
 author: jay
 ---
 <!-- more -->

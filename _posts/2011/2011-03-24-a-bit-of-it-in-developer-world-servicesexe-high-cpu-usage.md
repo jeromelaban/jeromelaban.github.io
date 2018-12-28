@@ -5,7 +5,7 @@ date: 2011-03-24 12:36:00 -0400
 comments: true
 category: Archive
 tags: [".NET", "Misc"]
-redirect_from: ["/post/2011/03/24/A-bit-of-IT-in-developer-world-servicesexe-high-CPU-usage", "/post/2011/03/24/a-bit-of-it-in-developer-world-servicesexe-high-cpu-usage"]
+redirect_from: ["/post/2011/03/24/A-bit-of-IT-in-developer-world-servicesexe-high-CPU-usage.aspx", "/post/2011/03/24/a-bit-of-it-in-developer-world-servicesexe-high-cpu-usage.aspx"]
 author: jay
 ---
 <!-- more -->

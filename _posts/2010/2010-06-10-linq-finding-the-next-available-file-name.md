@@ -5,7 +5,7 @@ date: 2010-06-10 20:16:00 -0400
 comments: true
 category: Archive
 tags: [".NET"]
-redirect_from: ["/post/2010/06/10/LINQ-Finding-the-next-available-file-name", "/post/2010/06/10/linq-finding-the-next-available-file-name"]
+redirect_from: ["/post/2010/06/10/LINQ-Finding-the-next-available-file-name.aspx", "/post/2010/06/10/linq-finding-the-next-available-file-name.aspx"]
 author: jay
 ---
 <!-- more -->

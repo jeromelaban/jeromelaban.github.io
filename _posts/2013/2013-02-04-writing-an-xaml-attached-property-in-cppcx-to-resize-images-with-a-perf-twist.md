@@ -5,7 +5,7 @@ date: 2013-02-04 21:41:00 -0500
 comments: true
 category: Archive
 tags: [".NET", "Windows 8"]
-redirect_from: ["/post/2013/02/04/Writing-an-Xaml-attached-property-in-CppCX-to-resize-Images-with-a-Perf-twist", "/post/2013/02/04/writing-an-xaml-attached-property-in-cppcx-to-resize-images-with-a-perf-twist"]
+redirect_from: ["/post/2013/02/04/Writing-an-Xaml-attached-property-in-CppCX-to-resize-Images-with-a-Perf-twist.aspx", "/post/2013/02/04/writing-an-xaml-attached-property-in-cppcx-to-resize-images-with-a-perf-twist.aspx"]
 author: jay
 ---
 <!-- more -->

@@ -5,7 +5,7 @@ date: 2011-03-27 19:24:00 -0400
 comments: true
 category: Archive
 tags: [".NET", "Windows Phone Dev"]
-redirect_from: ["/post/2011/03/27/WP7-Double-tapping-when-you-expected-only-one", "/post/2011/03/27/wp7-double-tapping-when-you-expected-only-one"]
+redirect_from: ["/post/2011/03/27/WP7-Double-tapping-when-you-expected-only-one.aspx", "/post/2011/03/27/wp7-double-tapping-when-you-expected-only-one.aspx"]
 author: jay
 ---
 <!-- more -->
