@@ -13,10 +13,13 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: JEROME LABAN
-description: Jerome Laban's Blog
+title: Jerome Laban's Blog
+description: >-
+  My name is Jérôme Laban, I'm a Software Architect from Montreal, working
+  on mostly .NET and C#, with Windows, Xamarin and WebAssembly. I'm the
+  CTO of the open source Uno Platform.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://jaylee.org" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jlaban
 github_username:  jeromelaban
 
