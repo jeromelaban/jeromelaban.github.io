@@ -27,6 +27,9 @@ google_analytics: UA-300089-2
 show_excerpts: true
 excerpt_separator: <!-- more -->
 
+disqus:
+  shortname: jaylee-org
+
 # Build settings
 markdown: kramdown
 theme: minima
