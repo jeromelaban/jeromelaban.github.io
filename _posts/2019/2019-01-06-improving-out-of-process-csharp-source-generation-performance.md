@@ -41,7 +41,7 @@ public abstract class SourceGeneratorContext
     public abstract void AddCompilationUnit(string name, SyntaxTree tree);
 }
 ```
-The compiler calls the Execute method, your generator does its work and adds a compilation unit back to the compiltion environment.
+The compiler calls the Execute method, your generator does its work and adds a compilation unit back to the compilation environment.
 
 I was waiting on this feature to be implemented, but for a variety of reasons, it got shelved by the roslyn team.
 
@@ -63,7 +63,7 @@ It became clear very quickly that to be able to avoid the issue of file locking 
 
 AppDomains have the [ShadowCopy feature](https://msdn.microsoft.com/en-us/library/system.appdomain.setshadowcopyfiles(v=vs.110).aspx), which forces the runtime to make a copy of an assembly that is not in the GAC before loading it. This ensure that source generators can be rebuilt from visual studio, and each new version can be used immediately without jumping through assembly versioning hoops. The source generator framework can then unload or change active AppDomains when an assembly gets changed, creating a new shadow copy without locking the original.
 
-This AppDomain technique worked quite is still working quite well, breaking once in a while when Visual Studio would change its MSBuild assemblies and/or targets (e.g. between Dev 14.0 and Dev 15.0).
+This AppDomain technique is still working quite well, breaking once in a while when Visual Studio would change its MSBuild assemblies and/or targets (e.g. between Dev 14.0 and Dev 15.0).
 
 This MSBuild dependency is also a particularly important aspect of the source generation framework. The Uno Source Generation Task load the full project `.csproj` file, and executes all targets defined by the project and its dependencies until the compilation phase. This way, all the project and assembly references, properties and items are defined properly and Roslyn is able to provide an exact replica of the final compilation environment to the source generators.
 
