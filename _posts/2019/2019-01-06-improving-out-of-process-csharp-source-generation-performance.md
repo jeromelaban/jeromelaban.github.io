@@ -5,7 +5,7 @@ date: 2019-01-06 00:00:00 -0500
 comments: true
 category: Archive
 comments: true
-tags: [".NET", "Windows 8", "Windows Phone Dev"]
+tags: [".NET","Source Generation"]
 author: Jerome
 ---
 
