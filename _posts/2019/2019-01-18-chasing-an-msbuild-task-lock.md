@@ -11,7 +11,7 @@ author: Jerome
 
 During the development of an [Uno Platform](https://github.com/nventive/Uno) build task for [generating platform specific resources](https://github.com/nventive/Uno/tree/master/src/SourceGenerators/Uno.UI.Tasks), I found out that invoking the [MSBuild task](https://docs.microsoft.com/en-us/visualstudio/msbuild/msbuild-task?view=vs-2017) with the `BuildInParallel` property set to true works around a task assembly locking issue. 
 
-For some (yet) unknown reason, even if Visual Studio is scheduling most of its work to child msbuild.exe processes, when using the new SDK style project format on large projects, the `devenv.exe` process gets used to build project outputs. This forces the developer to close the IDE and deleting the task assembly to rebuild it again, and work around _file not found_ caching issue...
+For some (yet) unknown reason, even if Visual Studio is scheduling most of its work to child msbuild.exe processes, when using the new SDK style project format on large projects, the `devenv.exe` process gets used to build project outputs. This forces the developer to close the IDE and delete the task assembly to rebuild it again, and work around a _file not found_ caching issue...
 
 In this article, I will be discussing the solutions I explored to mitigate this issue.
 
@@ -21,12 +21,13 @@ In this article, I will be discussing the solutions I explored to mitigate this 
 
 As part of [developing the Source Generation tasks](https://jaylee.org/archive/2019/01/06/improving-out-of-process-csharp-source-generation-performance.html), I've been able to start deciphering the behavior of MSBuild. All of its magic starts to make more sense now, maybe with the exception of ['%' ItemGroup patterns](https://docs.microsoft.com/en-us/visualstudio/msbuild/msbuild-items?view=vs-2017#BKMK_ReferencingItemMetadata) that I always have to lookup the documentation for...
 
-This file locking behavior has been quite odd and confusing, since MSBuild and VS teams have been making lots of work to make sure most (if not all) of the work is pushed out of the IDE for its reliability, this issue should have been happening at all.
+This file locking behavior has been quite odd and confusing, since MSBuild and VS teams have been making lots of changes to make sure most (if not all) of the work is pushed out of the IDE for its reliability, this issue should have been happening at all.
 
 In essence, the Uno.UI [custom build task](https://docs.microsoft.com/en-us/visualstudio/msbuild/task-writing?view=vs-2017) in question is injecting itself in the build process early to process `PRIResource` and `Content` files to they get converted to native iOS, Android and Web resources. To do so, the `BeforeTargets` property comes handy:
 
 ```xml
-<UsingTask AssemblyFile="$(UnoUIMSBuildTasksPath)\Uno.UI.Tasks.v0.dll" TaskName="Uno.UI.Tasks.ResourcesGenerator.ResourcesGenerationTask_v0" />
+<UsingTask AssemblyFile="$(UnoUIMSBuildTasksPath)\Uno.UI.Tasks.v0.dll" 
+        TaskName="Uno.UI.Tasks.ResourcesGenerator.ResourcesGenerationTask_v0" />
 
 <Target Name="UnoResourcesGeneration"
         DependsOnTargets="AssignLinkMetadata">
@@ -34,7 +35,7 @@ In essence, the Uno.UI [custom build task](https://docs.microsoft.com/en-us/visu
 </Target>
 ```
 
-This will make that the `UnoResourcesGeneration` task will be automatically injected before the `AssignLinkMetadata` target is invoked by another caller (commonly a dependency of the `Build` target).
+This will make the `UnoResourcesGeneration` task be automatically injected before the `AssignLinkMetadata` target is invoked by another caller (commonly a dependency of the `Build` target).
 
 ## The NuGet context workaround
 This file locking problem only exists inside of the Uno.UI solution.
@@ -44,7 +45,7 @@ The Uno.UI.Tasks file is packaged as part of the Uno.UI NuGet, using the [git co
 Strong signing the assembly could also have be used, but there are too many gotchas. I preferred using this unique-type-name technique to avoid type aliasing issues when inside the Uno.UI solution itself.
 
 ## Same-solution msbuild task dependencies
-The Uno.UI solution is built in such a way that Uno.UI itself needs the resources generation task to generate the compiled language resources files for the Uno.UI controls. This means that there is a dependency between the `Uno.UI` project and the `Uno.UI.Tasks` project.
+The Uno.UI solution is built in such a way that it itself needs the resources generation task to generate the compiled language resources files for the Uno.UI controls. This means that there is a dependency between the `Uno.UI` project and the `Uno.UI.Tasks` project.
 
 When starting from a clean git repository, to be able to build the Uno.UI solution completely from VS, it was necessary to build it once, have it fail half the way with msbuild saying that the `Uno.UI.Tasks.v0.dll` file could not be loaded even though it was there, close visual studio and build again.
 
@@ -80,16 +81,20 @@ Making this change fixed the fact that the build task assembly was trying to be 
 But this did not change much with regards to the file locking. Randomly, the file would get locked by the IDE, and MSBuild would report so by saying the following when building the largest Uno.UI project: 
 
 ```
-Beginning retry 1 in 500ms. The process cannot access the file 'bin\Debug\\Uno.UI.Tasks.v0.dll' because it is being used by another process. The file is locked by: "devenv.exe (16587), MSBuild.exe (15548), MSBuild.exe (13092), MSBuild.exe (16508), MSBuild.exe (19808), MSBuild.exe (3932), MSBuild.exe (19320)"
+Beginning retry 1 in 500ms. The process cannot access the file 
+'bin\Debug\\Uno.UI.Tasks.v0.dll' because it is being used by 
+another process. The file is locked by: "devenv.exe (16587), 
+MSBuild.exe (15548), MSBuild.exe (13092), MSBuild.exe (16508), 
+MSBuild.exe (19808), MSBuild.exe (3932), MSBuild.exe (19320)"
 ```
 
 ## The AppDomain approach
 
 MSBuild has an `AppDomainIsolatedTask` class, which can be used to execute tasks in another AppDomain, a common use case for unloading assemblies.
 
-Unfortunately, this cannot be used as MSBuild itself is loading the task assembly using [.NET's reflection APIs to find the `[LoadInSeparateAppDomain]` attribute](https://github.com/Microsoft/msbuild/blob/e70a3159d64f9ed6ec3b60253ef863fa883a99b1/src/Deprecated/Engine/Shared/LoadedType.cs#L146), which locks the file. Could be a good use of either the newer [System.Reflection.Metadata](https://www.nuget.org/packages/System.Reflection.Metadata) or even [Cecil](https://github.com/mono/cecil) inside MSBuild. This base task is generally used to mitigate other assemblies locking issues, but not the task itself. It's definitely not a silver bullet, as it has performance issues associated with the AppDomain creation and interop marshalling.
+Unfortunately, this cannot be used as MSBuild itself is loading the task assembly using [.NET's reflection APIs to find the `[LoadInSeparateAppDomain]` attribute](https://github.com/Microsoft/msbuild/blob/e70a3159d64f9ed6ec3b60253ef863fa883a99b1/src/Deprecated/Engine/Shared/LoadedType.cs#L146), which locks the file. There could be a good use case of either the newer [System.Reflection.Metadata](https://www.nuget.org/packages/System.Reflection.Metadata) or even [Cecil](https://github.com/mono/cecil) inside MSBuild. This base task is generally used to mitigate other assemblies locking issues, but not the task itself. It's definitely not a silver bullet, as it has performance issues associated with the AppDomain creation and interop marshalling.
 
-Another approach could have been to using MSBuild [inline tasks](https://docs.microsoft.com/en-us/visualstudio/msbuild/msbuild-roslyncodetaskfactory?view=vs-2017):
+Another approach could have been to using MSBuild [inline AppDomain isolated tasks](https://docs.microsoft.com/en-us/visualstudio/msbuild/msbuild-roslyncodetaskfactory?view=vs-2017):
 
 ```xml
 <UsingTask
@@ -149,7 +154,7 @@ Another approach could have been to using MSBuild [inline tasks](https://docs.mi
                 }
             }
         } 
-            ]]>
+        ]]>
         </Code>
     </Task>
 </UsingTask>
@@ -159,7 +164,7 @@ The idea behind this technique is to let msbuild create and manage an inline tas
 
 But it did not work either, as devenv.exe still ended up keeping a lock on the target assembly file. It's also very difficult to maintain and debug.
 
-It happens that MSBuild manages its AppDomains in lazy way, keeping them alive. It also [does not](https://github.com/Microsoft/msbuild/blob/e70a3159d64f9ed6ec3b60253ef863fa883a99b1/src/Shared/TaskLoader.cs#L96) enable [shadow copying](https://docs.microsoft.com/en-us/dotnet/api/system.appdomainsetup.shadowcopyfiles?view=netframework-4.7.2) referencing the original assembly directly. 
+It happens that MSBuild manages its AppDomains in lazy way, keeping them alive. It also [does not](https://github.com/Microsoft/msbuild/blob/e70a3159d64f9ed6ec3b60253ef863fa883a99b1/src/Shared/TaskLoader.cs#L96) enable [shadow copying](https://docs.microsoft.com/en-us/dotnet/api/system.appdomainsetup.shadowcopyfiles?view=netframework-4.7.2), referencing the original assembly directly. 
 
 Managing AppDomains manually is not an option either because we cannot control how msbuild loads it own assemblies, or provide a proper configuration file.
 
@@ -256,7 +261,7 @@ A new instance of a project does imply running in another process.
 
 ## Onto msbuild.exe not locking the files either
 
-With this last technique, `devenv.exe` does not lock the task assembly anymore but `msbuild.exe` still does. This means that for now 
+With this last technique, `devenv.exe` does not lock the task assembly anymore, but `msbuild.exe` still does. This means that for now 
 
 `TASKKILL /F /IM msbuild.exe`
 
