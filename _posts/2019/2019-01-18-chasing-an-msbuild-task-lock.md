@@ -19,7 +19,7 @@ In this article, I will be discussing the solutions I explored to mitigate this 
 
 ## Troubleshooting an MSBuild task file locking
 
-As part of [developing the Source Generation tasks](2019-01-06-improving-out-of-process-csharp-source-generation-performance.md), I've been able to start deciphering the behavior of MSBuild. All of its magic starts to make more sense now, maybe with the exception of ['%' ItemGroup patterns](https://docs.microsoft.com/en-us/visualstudio/msbuild/msbuild-items?view=vs-2017#BKMK_ReferencingItemMetadata) that I always have to lookup the documentation for...
+As part of [developing the Source Generation tasks](https://jaylee.org/archive/2019/01/06/improving-out-of-process-csharp-source-generation-performance.html), I've been able to start deciphering the behavior of MSBuild. All of its magic starts to make more sense now, maybe with the exception of ['%' ItemGroup patterns](https://docs.microsoft.com/en-us/visualstudio/msbuild/msbuild-items?view=vs-2017#BKMK_ReferencingItemMetadata) that I always have to lookup the documentation for...
 
 This file locking behavior has been quite odd and confusing, since MSBuild and VS teams have been making lots of work to make sure most (if not all) of the work is pushed out of the IDE for its reliability, this issue should have been happening at all.
 
