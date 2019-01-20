@@ -257,7 +257,7 @@ Digging a bit deeper into what MSBuild does with its [MSBuild task](https://docs
 When you pass properties to the project through the Properties parameter, MSBuild creates a new instance of the project even if the project file has already been loaded.
 ```
 
-A new instance of a project does imply running in another process.
+A new instance of a project does not imply running in another process.
 
 ## Onto msbuild.exe not locking the files either
 
