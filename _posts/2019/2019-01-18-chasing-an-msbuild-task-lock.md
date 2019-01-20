@@ -9,7 +9,7 @@ tags: [".NET", "MSBuild"]
 author: Jerome
 ---
 
-During the development of an Uno.UI build task for generating platform specific resources, I found out that invoking the [MSBuild task](https://docs.microsoft.com/en-us/visualstudio/msbuild/msbuild-task?view=vs-2017) with the `BuildInParallel` property set to true works around a task assembly locking issue. 
+During the development of an [Uno Platform](https://github.com/nventive/Uno) build task for [generating platform specific resources](https://github.com/nventive/Uno/tree/master/src/SourceGenerators/Uno.UI.Tasks), I found out that invoking the [MSBuild task](https://docs.microsoft.com/en-us/visualstudio/msbuild/msbuild-task?view=vs-2017) with the `BuildInParallel` property set to true works around a task assembly locking issue. 
 
 For some (yet) unknown reason, even if Visual Studio is scheduling most of its work to child msbuild.exe processes, when using the new SDK style project format on large projects, the `devenv.exe` process gets used to build project outputs. This forces the developer to close the IDE and deleting the task assembly to rebuild it again, and work around _file not found_ caching issue...
 
