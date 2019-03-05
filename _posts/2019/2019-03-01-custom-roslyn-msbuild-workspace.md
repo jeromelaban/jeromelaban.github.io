@@ -11,7 +11,7 @@ author: Jerome
 
 In my [previous article](https://jaylee.org/archive/2019/01/06/improving-out-of-process-csharp-source-generation-performance.html) about the process of improving the source generation performance, I mentioned some improvements around the generation inside of an `AppDomain` for an improved isolation, inside of an out-of-process generation host.
 
-It turned out to be problematic on both the memory consumption side, as well as on the cold start cost of creating a host, which I'll talk about in a later post.
+It turned out to be problematic on both the memory consumption side, as well as on the cold start cost of creating a host, which I'll talk about in a later post. 
 
 This quest for the generation performance also led me to rethink the use of the [MSBuildWorkspace class](https://gist.github.com/DustinCampbell/32cd69d04ea1c08a16ae5c4cd21dd3a3). It completely hides MSBuild object model created to build the Roslyn [Compilation](https://docs.microsoft.com/en-us/dotnet/api/microsoft.codeanalysis.compilation?view=roslyn-dotnet) object, which also needs to be provided to the source generators to get access to the code being built, forcing a double parsing and loading of a project file.
 
