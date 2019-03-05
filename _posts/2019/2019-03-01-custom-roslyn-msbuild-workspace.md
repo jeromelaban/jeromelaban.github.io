@@ -13,7 +13,7 @@ In my [previous article](https://jaylee.org/archive/2019/01/06/improving-out-of-
 
 It turned out to be problematic on both the memory consumption side, as well as on the cold start cost of creating a host, which I'll talk about in a later post. 
 
-This quest for the generation performance also led me to rethink the use of the [MSBuildWorkspace class](https://gist.github.com/DustinCampbell/32cd69d04ea1c08a16ae5c4cd21dd3a3). It completely hides MSBuild object model created to build the Roslyn [Compilation](https://docs.microsoft.com/en-us/dotnet/api/microsoft.codeanalysis.compilation?view=roslyn-dotnet) object, which also needs to be provided to the source generators to get access to the code being built, forcing a double parsing and loading of a project file.
+This quest for the generation performance also led me to rethink the use of the [MSBuildWorkspace class](https://gist.github.com/DustinCampbell/32cd69d04ea1c08a16ae5c4cd21dd3a3). It completely hides the MSBuild object model created to build the Roslyn [Compilation](https://docs.microsoft.com/en-us/dotnet/api/microsoft.codeanalysis.compilation?view=roslyn-dotnet) object. These MSBuild project instances also need to be provided to the source generators to get access to the code being built, forcing a double parsing and loading of a project file.
 
 <!-- more -->
 
@@ -33,7 +33,7 @@ After discussing this a bit with [Jason Malinowsky on twitter](https://twitter.c
 
 Opening an MSBuild project file can be expensive, particularly when there are [globbing (or wildcards) patterns](https://docs.microsoft.com/en-us/visualstudio/msbuild/import-element-msbuild?view=vs-2017#wildcards). It can also be very expensive if a project opens the whole tree of `ProjectReference` items found while scanning project files.
 
-The way the `MSBuildWorkspace` is built enables the creation of a valid Roslyn `Compilation` object, even none of the dependent projects of an opened project have been built. This makes sense in a general Roslyn use case, but not for the generators, which are invoked right before the normal compilation step, and that all the dependent projects have already been built.
+The way the `MSBuildWorkspace` is built enables the creation of a valid Roslyn `Compilation` object, even if none of the dependent projects of an opened project have been built. This makes sense in a general Roslyn use case, but not for the generators, which are invoked right before the normal compilation step, and that all the dependent projects have already been built.
 
 In the context of the Uno.UI project, for which the projects tree is 6 or 7 levels deep, each MSBuildWorkspace of the tree has to load all of its dependencies. This makes the last project spend a lot of time parsing msbuild files.
 
