@@ -11,7 +11,9 @@ author: Jerome
 
 The Azure Devops team recently added a new feature that gives the ability to run a build definition inside of a container pull from the Docker Hub. That container is running directly on the build host, executing the steps of the definition.
 
-As I've been battling recently to get the Uno Platform Wasm-AOT Linux builds to run in a consistent context, without having to much to maintain, this feature comes in handy!
+As I've been battling recently to get the Uno Platform Wasm-AOT Linux builds to run in a consistent context, without having to much to maintain. [Mono-wasm](https://github.com/mono/mono/blob/master/sdks/wasm/README.md) comes with an AOT toolchain that only works on Ubuntu 18.04, and Azure DevOps hosted agents only provide Ubuntu 16.04.
+
+This container support feature comes in handy to build in the appropriate environment!
 
 <!-- more -->
 ## How to build inside a container
