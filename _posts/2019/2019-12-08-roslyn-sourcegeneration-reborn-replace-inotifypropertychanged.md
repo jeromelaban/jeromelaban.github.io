@@ -9,7 +9,7 @@ tags: [".NET", "C#", "Source Generation"]
 author: Jerome
 ---
 
-A very long time ago, during the C# 6.0 time frame, a Source Generation proposal was added to the list of possible features, it was abandoned, but in a recent PR, the Roslyn team [is taking a look again](https://github.com/dotnet/roslyn/pull/40162#issuecomment-562971937) at the feature proposal, as there are lots of generation happen around Microsoft that could benefit from an integrated story.
+A very long time ago, during the C# 6.0 time frame, a Source Generation proposal was added to the list of possible features, it was abandoned, but in a recent PR, the Roslyn team [is taking a look again](https://github.com/dotnet/roslyn/pull/40162) at the feature proposal, as there are lots of generation happen around Microsoft that could benefit from an integrated story.
 
 <!-- more -->
 ## The original feature of C# 6.0
