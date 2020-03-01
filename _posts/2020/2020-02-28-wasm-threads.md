@@ -1,8 +1,7 @@
 ---
 layout: post
-title: ".NET threading and WebAssembly"
-date: 2020-01-18 00:00:00 -0500
-comments: true
+title: ".NET Threading and WebAssembly"
+date: 2020-02-29 00:00:00 -0500
 category: Archive
 comments: true
 tags: [".NET", "Threading", "WebAssembly"]
