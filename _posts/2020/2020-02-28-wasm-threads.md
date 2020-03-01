@@ -10,6 +10,8 @@ author: Jerome
 
 Threading, in general operating systems sense, is not something that the web has been able to use until very recently. The addition of [Threads support in WebAssembly](https://github.com/WebAssembly/threads), and the activation of the threading support in Chrome opens up a whole new world of possibilities, including the use of Reactive Extensions (Rx.NET) or the Task Parallel Library (TPL).
 
+Let's dive in, with some sample code.
+
 <!-- more -->
 
 ## A bit of history
