@@ -10,6 +10,8 @@ author: Jerome
 
 Threading, in general operating systems sense, is not something that the web has been able to use until very recently. The addition of [Threads support in WebAssembly](https://github.com/WebAssembly/threads), and the activation of the threading support in Chrome opens up a whole new world of possibilities, including the use of Reactive Extensions (Rx.NET) or the Task Parallel Library (TPL).
 
+<!-- more -->
+
 ## A bit of history
 
 The only technique that was available for actual local parallelization of work in the javascript land was to use [WebWorkers](https://developer.mozilla.org/en-US/docs/Web/API/Web_Workers_API/Using_web_workers). It's technically not threading in the same sense known by out-of-browsers developers, as it does not provide the ability to share memory between WebWorkers. To synchronize work, [messages](https://developer.mozilla.org/en-US/docs/Web/API/Worker/postMessage) are passed between workers and [the main loop](https://developer.mozilla.org/en-US/docs/Web/API/Worker/onmessage), which looks more like processes would exchange messages via IPC.
