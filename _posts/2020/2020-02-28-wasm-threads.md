@@ -30,7 +30,7 @@ When threads are created, new WebWorkers are created and [provided with a set of
 
 One interesting aspect of threading is that the creation of WebWorkers needs main loop to yield. This means that if the main loop does not yield control back to the environment, threads may never get the chance to start. That's why Emscripten provides a way set of workers (none by default) to be created before executing any code.
 
-At this point, it is important to note that if the `atomics` feature is not enabled in the browser (e.g. in Firefox or Safari), the emscripten built app will fail to start. This will most probably one of the reason that the [Uno.Wasm.Bootstrap project](https://github.com/unoplatform/Uno.Wasm.Bootstrap) will include multi-configuration generation based on browsers capabilities.
+At this point, it is important to note that if the **atomics** feature is not enabled in the browser (e.g. in Firefox or Safari), the emscripten built app will fail to start. This will most probably one of the reason that the [Uno.Wasm.Bootstrap project](https://github.com/unoplatform/Uno.Wasm.Bootstrap) will include multi-configuration generation based on browsers capabilities.
 
 ## Threads in .NET for WebAssembly
 
@@ -42,7 +42,7 @@ The `ThreadPool` is also available, along with `System.Threading.Thread.ManagedT
 
 ## Trying out WebAssembly Threading with Uno.Wasm.Bootstrap
 
-The Uno.Wasm.Bootstrap package provides the configuration to [enable threading](https://github.com/unoplatform/Uno.Wasm.Bootstrap#threads-support) in .NET for WebAssembly by using [the latest 1.1-dev package](https://www.nuget.org/packages/Uno.Wasm.Bootstrap), and changing the active runtime mode.
+The [Uno.Wasm.Bootstrap package](https://github.com/unoplatform/Uno.Wasm.Bootstrap) provides the configuration to [enable threading](https://github.com/unoplatform/Uno.Wasm.Bootstrap#threads-support) in .NET for WebAssembly by using [the latest 1.1-dev package](https://www.nuget.org/packages/Uno.Wasm.Bootstrap), and changing the active runtime mode.
 
 This can be done in the project file like this:
 
