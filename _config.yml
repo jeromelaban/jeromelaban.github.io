@@ -18,6 +18,10 @@ description: >-
   My name is Jérôme Laban, I'm a Software Architect from Montreal, working
   on mostly .NET and C#, with Windows, Xamarin and WebAssembly. I'm the
   CTO of the open source Uno Platform. MVP 2009-2011;2020
+description_full: >-
+  My name is Jérôme Laban, I'm a Software Architect from Montreal, working
+  on mostly .NET and C#, with Windows, Xamarin and WebAssembly. I'm the
+  CTO of the open source <a href="https://platform.uno">Uno Platform</a>. MVP 2009-2011;2020
 baseurl: ""
 url: "https://jaylee.org"
 twitter_username: jlaban
