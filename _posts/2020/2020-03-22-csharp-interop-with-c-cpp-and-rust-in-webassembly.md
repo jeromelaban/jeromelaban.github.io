@@ -173,7 +173,7 @@ rustc --target=wasm32-unknown-emscripten mylib.rs --crate-type=staticlib -o ../m
 
 In a similar way we've done this for C++, the Bitcode file is now available for the .NET tool chain to use. The `staticlib` parameter is important as it forces the rust compiler to create a standalone library, with all its internal support code included.
 
-## Calling the C++ function from C#
+## Call the Rust function from C#
 
 With the Rust library built, we can update our C# program to make the Rust function callable:
 
