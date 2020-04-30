@@ -11,7 +11,7 @@ author: Jerome
 
 In a design meeting far, far away, source generators were [designed to be part of C# 6.0](https://github.com/dotnet/roslyn/blob/12bd769ebcd3121b88f535e8559f5a42d9c0e873/docs/features/generators.md), but sadly never came to be. At the time, wanting that source generation feature pretty badly, I went on implementing the specification which later became [Uno.SourceGeneration](https://github.com/unoplatform/Uno.SourceGeneration), and it turns out it was the right decision to stick with a very similar API.
 
-I could port the [INotifyPropertyChanged (INPC) generator I built a while back](https://jaylee.org/archive/2019/12/08/roslyn-sourcegeneration-reborn-replace-inotifypropertychanged.html) that uses Uno.SourceGeneration tasks to use Roslyn's [shiny new C# 9.0 feature](https://devblogs.microsoft.com/dotnet/introducing-c-source-generators/) in a matter of minutes. Amazing!
+I could port the [INotifyPropertyChanged (INPC) generator I built a while back](https://jaylee.org/archive/2019/12/08/roslyn-sourcegeneration-reborn-replace-inotifypropertychanged.html) that uses [Uno.SourceGeneration](https://github.com/unoplatform/Uno.SourceGeneration) package, convert it to use Roslyn's [shiny new C# 9.0 feature](https://devblogs.microsoft.com/dotnet/introducing-c-source-generators/) in a matter of minutes. Amazing!
 
 <!-- more -->
 
