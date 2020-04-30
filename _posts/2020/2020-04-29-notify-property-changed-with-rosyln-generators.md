@@ -98,6 +98,12 @@ public class MySourceGenerator : ISourceGenerator
 
 The execute method in Uno.SourceGeneration has the same signature, and the new `SourceGeneratorContext` type the only property that really matters `Compilation`.
 
+The method to provide the generated source has changed a bit, and uses a `SourceText` instead of a `string`:
+
+```csharp
+context.AddSource(sanitizedName, SourceText.From(builder.ToString(), Encoding.UTF8));
+```
+
 We'll need to update the path to the binary, where `SourceGenerator` becomes `Analyzer`, in the `INPC.Generator.props` file:
 
 ```xml
