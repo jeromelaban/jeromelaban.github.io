@@ -130,6 +130,6 @@ The job is done!
 
 I hope the feature will grow, and provide lots more like access to msbuild properties, or [dependencies between generators](https://github.com/unoplatform/Uno.SourceGeneration#general-guidelines-for-creating-generators), and it will [finally fix the issues with dynamically generated](https://developercommunity.visualstudio.com/content/problem/588021/the-compile-itemgroup-intellisense-cache-is-not-re.html) `<Compile />` item groups.
 
-I hope you will give this feature a try, as it opens up a world of possibilities, as we've been finding out while developing Uno (Here's the list of generators), as well as the [Uno.CodeGen generators](https://github.com/unoplatform/Uno.CodeGen) (which some may not be needed anymore with the C# 9.0 records feature!).
+I hope you will give this feature a try, as it opens up a world of possibilities, as we've been finding out while developing Uno (Here's the [list of generators](https://github.com/unoplatform/uno/tree/master/src/SourceGenerators/Uno.UI.SourceGenerators)), as well as the [Uno.CodeGen generators](https://github.com/unoplatform/Uno.CodeGen) (which some may not be needed anymore with the C# 9.0 records feature!).
 
 Happy source-generation!
