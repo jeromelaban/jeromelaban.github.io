@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Using MSBuild Items and Properties in C# 9 Source Generators"
-date: 2020-07-19 00:00:00 -0500
+date: 2020-09-13 00:00:00 -0500
 comments: true
 category: Archive
 comments: true
