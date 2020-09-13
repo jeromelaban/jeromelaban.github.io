@@ -11,7 +11,7 @@ author: Jerome
 
 C# 9.0 Source Generation is [progressing quite nicely lately](https://twitter.com/jaredpar/status/1301315173244788736) (Thanks, Jared!), with the addition of the ability to interact with the MSBuild environment such as getting Properties and Items to control how the generation happens.
 
-In this post, I'll explain how to parse the `.resw` files of a project to generate a enum that contains all the resources.
+In this post, I'll explain how to parse `.resw` files of a project to generate an enum that contains all the resources.
 
 <!-- more -->
 
